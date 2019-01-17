@@ -42,6 +42,12 @@
   	
   	<h1>More text</h1>
   	
+	<div class="parallax-container">
+    	<div class="parallax"><img src="https://lorempixel.com/800/400/food/4"></div>
+    </div>
+  	
+  	<h1>More text</h1>
+  	
     <footer class="page-footer">
     	<div class="container">
         	<div class="row">
