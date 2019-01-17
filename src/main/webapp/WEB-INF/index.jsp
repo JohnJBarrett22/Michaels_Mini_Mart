@@ -19,7 +19,7 @@
     	<a class="carousel-item" href="#three!"><img src="https://lorempixel.com/800/400/food/3"></a>
     	<a class="carousel-item" href="#four!"><img src="https://lorempixel.com/800/400/food/4"></a>
     </div>
-    <nav>
+    <nav class="nav-center red darken-1">
     	<div class="nav-wrapper">
       		<ul id="nav-mobile" class="center hide-on-med-and-down">
         		<li><a href="sass.html">About</a></li>
@@ -34,13 +34,16 @@
     	</div>
   	</nav>
   	
-  	<h1>Welcome to Michael's</h1>
+  	<img src="images/img_mikes_outside.png">
+  	<h1 class="ctr">Welcome to Michael's</h1>
+  	<h2 class="ctr">Welcome to the biggest little store in New Mexico!</h2>
   	
   	<div class="parallax-container">
     	<div class="parallax"><img src="https://lorempixel.com/800/400/food/4"></div>
     </div>
   	
   	<h1>More text</h1>
+  	<p>Michael’s Mini-Mart has been in the Romero family for over 50 years. It is very well-known and respected in northern New Mexico. This c-store serves as town hall and meeting place for the entire community of Velarde, and this town has provided loyal customers for generations.</p>
   	
 	<div class="parallax-container">
     	<div class="parallax"><img src="https://lorempixel.com/800/400/food/4"></div>
@@ -48,12 +51,12 @@
   	
   	<h1>More text</h1>
   	
-    <footer class="page-footer">
+    <footer class="page-footer red darken-1">
     	<div class="container">
         	<div class="row">
           		<div class="col l6 s12">
             		<h5 class="white-text">Footer Content</h5>
-            		<p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+            		<p class="grey-text text-lighten-4">1410 Highway 68 N, Velarde, NM 87582; 505-852-4769 Michaels.minimart@gmail.com</p>
           		</div>
           		<div class="col l4 offset-l2 s12">
             		<h5 class="white-text">Links</h5>
@@ -68,7 +71,7 @@
       	</div>
       	<div class="footer-copyright">
         	<div class="container">
-        		© 2014 Copyright Text
+        		© 2019 Copyrighted by Michael's Mini-Mart
         		<a class="grey-text text-lighten-4 right" href="#!">More Links</a>
         	</div>
       	</div>

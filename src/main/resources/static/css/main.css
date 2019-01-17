@@ -2,6 +2,19 @@
 	margin: 0;
 	padding: 0;
 }
-h1 {
-	color: green;
+.ctr {
+	text-align: center;
+}
+.mid {
+	margin: 0 auto;
+}
+nav.nav-center ul {
+    text-align: center;
+}
+nav.nav-center ul li {
+    display: inline;
+    float: none;
+}
+nav.nav-center ul li a {
+    display: inline-block;
 }
