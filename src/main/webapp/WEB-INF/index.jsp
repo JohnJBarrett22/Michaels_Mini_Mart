@@ -14,19 +14,20 @@
 <title>Michael's Mini Mart</title>
 </head>
 <body>
+	
 	<div class="carousel carousel-slider">
     	<a class="carousel-item" href="#one!"><img src="images/front.jpg"></a>
     	<a class="carousel-item" href="#two!"><img src="images/front.jpg"></a>
     	<a class="carousel-item" href="#three!"><img src="images/front.jpg"></a>
     </div>
-    <nav class="nav-center red darken-1">
+    
+    <nav class="nav-center red darken-1" id="siteNav">
     	<div class="nav-wrapper">
       		<ul id="nav-mobile" class="center hide-on-med-and-down">
         		<li><a href="#about">About</a></li>
         		<li><a href="#alices-food">Alice's Food</a></li>
         		<li><a href="#events">Events</a></li>
         		<li><a href="#menu">Menu</a></li>
-        		<li><a href="#gas">Gas</a></li>
         		<li><a href="#liquor">Liquor</a></li>
         		<li><a href="#contact-us">Contact</a></li>
       		</ul>
