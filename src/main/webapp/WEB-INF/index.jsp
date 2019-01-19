@@ -16,20 +16,19 @@
 <body>
 	<div class="carousel carousel-slider">
     	<a class="carousel-item" href="#one!"><img src="images/front.jpg"></a>
-    	<a class="carousel-item" href="#two!"><img src="https://lorempixel.com/800/400/food/2"></a>
-    	<a class="carousel-item" href="#three!"><img src="https://lorempixel.com/800/400/food/3"></a>
-    	<a class="carousel-item" href="#four!"><img src="https://lorempixel.com/800/400/food/4"></a>
+    	<a class="carousel-item" href="#two!"><img src="images/front.jpg"></a>
+    	<a class="carousel-item" href="#three!"><img src="images/front.jpg"></a>
     </div>
     <nav class="nav-center red darken-1">
     	<div class="nav-wrapper">
       		<ul id="nav-mobile" class="center hide-on-med-and-down">
-        		<li><a href="sass.html">About</a></li>
-        		<li><a href="collapsible.html">Alice's Food</a></li>
-        		<li><a href="collapsible.html">Events</a></li>
-        		<li><a href="collapsible.html">Groceries</a></li>
-        		<li><a href="collapsible.html">Gas</a></li>
-        		<li><a href="collapsible.html">Liquor</a></li>
-        		<li><a href="collapsible.html">Contact</a></li>
+        		<li><a href="#about">About</a></li>
+        		<li><a href="#alices-food">Alice's Food</a></li>
+        		<li><a href="#events">Events</a></li>
+        		<li><a href="#menu">Menu</a></li>
+        		<li><a href="#gas">Gas</a></li>
+        		<li><a href="#liquor">Liquor</a></li>
+        		<li><a href="#contact-us">Contact</a></li>
       		</ul>
     	</div>
   	</nav>
@@ -41,15 +40,30 @@
     	<div class="parallax"><img src="images/group.jpg"></div>
     </div>
   	
-  	<h1>More text</h1>
-  	<p>Michael’s Mini-Mart has been in the Romero family for over 50 years. It is very well-known and respected in northern New Mexico. This c-store serves as town hall and meeting place for the entire community of Velarde, and this town has provided loyal customers for generations.</p>
-  	<p>The "Favorites by Alice" is more than just a catchphrase. It refers to the recipes that were crowd favorites at Mike's Place, their restaurant in the neighboring city of Española. They revived the recipes in response to customer demand. In fact, Michael's Mini-Mart was featured in the Winter 2007 edition of Saveur Magazine for their great food!</p>
-  	
+  	<section id="about">
+	  	<h1>More text</h1>
+	  	<h1>More text</h1>
+  	</section>
+
 	<div class="parallax-container">
     	<div class="parallax"><img src="images/mini-mart.jpg"></div>
     </div>
   	
-  	<h1>More text</h1>
+  	<section id="alices-food">
+	  	<h1>More text</h1>
+	  	<h1>More text</h1>
+  	</section>
+  	
+ 	<div class="carousel carousel-slider">
+    	<a class="carousel-item" href="#one!"><img src="images/front.jpg"></a>
+    	<a class="carousel-item" href="#two!"><img src="images/front.jpg"></a>
+    	<a class="carousel-item" href="#three!"><img src="images/front.jpg"></a>
+    </div>
+  	
+  	<section id="contact-us">
+	  	<h1>More text</h1>
+	  	<h1>More text</h1>
+  	</section>
   	
     <footer class="page-footer red darken-1">
     	<div class="container">
@@ -70,9 +84,9 @@
       	<div class="footer-copyright">
         	<div class="container">
         		© 2019 Copyrighted by Michael's Mini-Mart
-        		<a class="grey-text text-lighten-4 right" href="#!"><i class="fab fa-facebook-square fa-2x icon"></i></a>
-        		<a class="grey-text text-lighten-4 right" href="#!"><i class="fas fa-envelope fa-2x icon"></i></a>
-        		<a class="grey-text text-lighten-4 right" href="#!"><i class="fas fa-phone fa-2x icon"></i></i></a>
+        		<a class="grey-text text-lighten-4 right" href="https://www.facebook.com/MichaelsMinimartVelarde/"><i class="fab fa-facebook-square fa-2x icon"></i></a>
+        		<a class="grey-text text-lighten-4 right" href="mailto:michaels.minimart@gmail.com"><i class="fas fa-envelope fa-2x icon"></i></a>
+        		<a class="grey-text text-lighten-4 right" href="tel:505-852-4769"><i class="fas fa-phone fa-2x icon"></i></i></a>
         	</div>
       	</div>
     </footer>
