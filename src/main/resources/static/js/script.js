@@ -15,14 +15,18 @@ document.addEventListener('DOMContentLoaded', function() {
 });
   
 //Sticky navigation 
-window.onscroll = function() {myFunction()};
-var header = document.getElementById("siteNav");
-var sticky = header.offsetTop;
+const nav = document.querySelector("#siteNav")
+const topOfNav = nav.offsetTop + 339;
 
-function myFunction() {
-	if (window.pageYOffset > sticky) {
-		header.classList.add("sticky");
-    } else {
-    	header.classList.remove("sticky");
-    }
+function fixNav(){
+	console.log(topOfNav, window.scrollY);
+	if(window.scrollY >= topOfNav){
+		document.body.style.paddingTop = nav.offsetHeight + "px";
+		document.body.classList.add("sticky-nav");
+	}else{
+		document.body.style.paddingTop = 0;
+		document.body.classList.remove("sticky-nav");
+	}
 }
+
+window.addEventListener("scroll", fixNav);

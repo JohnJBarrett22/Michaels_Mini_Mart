@@ -34,8 +34,10 @@
     	</div>
   	</nav>
   	
-  	<h1 class="ctr">Welcome to Michael's</h1>
-  	<h2 class="ctr">Welcome to the biggest little store in New Mexico!</h2>
+ 	<section id="about">
+  		<h1 class="ctr">Welcome to Michael's</h1>
+  		<h2 class="ctr">Welcome to the biggest little store in New Mexico!</h2>
+  	</section>
   	
   	<div class="parallax-container">
     	<div class="parallax"><img src="images/group.jpg"></div>
