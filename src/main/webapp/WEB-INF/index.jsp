@@ -15,7 +15,7 @@
 </head>
 <body>
 	
-	<div class="carousel carousel-slider">
+	<div class="carousel carousel-slider" id="mainCarousel">
     	<a class="carousel-item" href="#one!"><img src="images/front.jpg"></a>
     	<a class="carousel-item" href="#two!"><img src="images/front.jpg"></a>
     	<a class="carousel-item" href="#three!"><img src="images/front.jpg"></a>

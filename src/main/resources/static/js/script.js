@@ -14,11 +14,14 @@ document.addEventListener('DOMContentLoaded', function() {
     var instances = M.Parallax.init(elems);
 });
   
-//Sticky navigation 
+//Sticky navigation
+const carousel = document.querySelector("#mainCarousel")
 const nav = document.querySelector("#siteNav")
-const topOfNav = nav.offsetTop + 339;
+const carouselOffset = carousel.offsetHeight;
+const topOfNav = nav.offsetTop + carouselOffset;
 
 function fixNav(){
+	console.log("OFFSET", carouselOffset);
 	console.log(topOfNav, window.scrollY);
 	if(window.scrollY >= topOfNav){
 		document.body.style.paddingTop = nav.offsetHeight + "px";
