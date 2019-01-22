@@ -8,6 +8,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.css">
 <link rel="stylesheet" href="/css/main.css">
@@ -45,6 +46,48 @@
   	
   	<section id="about">
 	  	<h1>More text</h1>
+	  	
+		<div class="row">
+		    <div class="col s12 m3">
+		      <div class="card">
+		        <div class="card-image">
+		          <img src="images/feature_magazine.jpg">
+		          <span class="card-title">Card Title</span>
+		          <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+		        </div>
+		        <div class="card-content">
+		          <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+		        </div>
+		      </div>
+		    </div>
+		    
+		    <div class="col s12 m3">
+		      <div class="card">
+		        <div class="card-image">
+		          <img src="images/feature_saveur.jpg">
+		          <span class="card-title">Card Title</span>
+		          <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+		        </div>
+		        <div class="card-content">
+		          <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+		        </div>
+		      </div>
+		    </div>
+		    
+		    <div class="col s12 m3">
+		      <div class="card">
+		        <div class="card-image">
+		          <img src="images/feature_pnmentrp.jpg">
+		          <span class="card-title">Card Title</span>
+		          <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+		        </div>
+		        <div class="card-content">
+		          <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+		        </div>
+		      </div>
+		    </div>
+	    </div>
+	  	
 	  	<h1>More text</h1>
   	</section>
 
