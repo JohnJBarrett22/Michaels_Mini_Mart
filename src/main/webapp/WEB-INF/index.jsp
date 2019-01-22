@@ -17,8 +17,8 @@
 	
 	<div class="carousel carousel-slider" id="mainCarousel">
     	<a class="carousel-item" href="#one!"><img src="images/front.jpg"></a>
-    	<a class="carousel-item" href="#two!"><img src="images/front.jpg"></a>
-    	<a class="carousel-item" href="#three!"><img src="images/front.jpg"></a>
+    	<a class="carousel-item" href="#two!"><img src="images/retail_display.jpg"></a>
+    	<a class="carousel-item" href="#three!"><img src="images/retail_eating.jpg"></a>
     </div>
     
     <nav class="nav-center red darken-1" id="siteNav">
@@ -40,7 +40,7 @@
   	</section>
   	
   	<div class="parallax-container">
-    	<div class="parallax"><img src="images/group.jpg"></div>
+    	<div class="parallax"><img src="images/retail_fixture.jpg"></div>
     </div>
   	
   	<section id="about">
@@ -49,7 +49,7 @@
   	</section>
 
 	<div class="parallax-container">
-    	<div class="parallax"><img src="images/mini-mart.jpg"></div>
+    	<div class="parallax"><img src="images/retail_cooler.jpg"></div>
     </div>
   	
   	<section id="alices-food">
@@ -58,9 +58,10 @@
   	</section>
   	
  	<div class="carousel carousel-slider">
-    	<a class="carousel-item" href="#one!"><img src="images/front.jpg"></a>
-    	<a class="carousel-item" href="#two!"><img src="images/front.jpg"></a>
-    	<a class="carousel-item" href="#three!"><img src="images/front.jpg"></a>
+    	<a class="carousel-item" href="#one!"><img src="images/food_tacos.jpg"></a>
+    	<a class="carousel-item" href="#two!"><img src="images/food_pizza.jpg"></a>
+    	<a class="carousel-item" href="#three!"><img src="images/food_taquitos.jpg"></a>
+    	<a class="carousel-item" href="#four!"><img src="images/food_beer.jpg"></a>
     </div>
   	
   	<section id="contact-us">
