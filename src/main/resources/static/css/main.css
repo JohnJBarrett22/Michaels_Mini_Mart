@@ -40,25 +40,14 @@ nav.nav-center ul li a {
 /* Modals */
 .cardSlide {
 	opacity: 0;
-	transition: all .5s;
-}
-.inLeft.cardSlide {
-	transform: translateX(-30%) scale(0.95);
-}
-.inRight.cardSlide {
-	transform: translateX(30%) scale(0.95);
+	transition: all 1s;
+	transform: translateY(40%) scale(0.85);
 }
 .cardSlide.active {
 	opacity: 1;
 	transform: translateX(0%) scale(1);
 }
-
-
-
-
-
-
-.cardPic 
+.cardPic {
 	min-height: 400px;
     max-height: 400px;   
 }

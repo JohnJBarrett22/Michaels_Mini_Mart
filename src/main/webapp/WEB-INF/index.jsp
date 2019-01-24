@@ -36,7 +36,7 @@
   	</nav>
   	
  	<section id="about">
-  		<h1 class="ctr">Welcome to Michael's</h1>
+  		<h1 class="ctr">Michael's Mini-Mart</h1>
   		<h2 class="ctr">Welcome to the biggest little store in New Mexico!</h2>
   	</section>
   	
@@ -50,8 +50,8 @@
 		<div class="row">
 			<div class="col m1"></div>
 			<div class="col m10">
-		    	<div class="col s12 m3">
-		      		<div class="card cardSlide">
+		    	<div class="col s12 m3 cardSlide">
+		      		<div class="card">
 		        		<div class="card-image">
 		          			<img src="images/feature_green_chili_trail.jpg" class="cardPic">
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal1"><i class="material-icons">search</i></a>
@@ -62,8 +62,8 @@
 		     		</div>
 		    	</div>
 		    
-		   		<div class="col s12 m3">
-		      		<div class="card cardSlide">
+		   		<div class="col s12 m3 cardSlide">
+		      		<div class="card">
 		        		<div class="card-image">
 		          			<img src="images/feature_saveur.jpg" class="cardPic">
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal2"><i class="material-icons">search</i></a>
@@ -74,8 +74,8 @@
 		      		</div>
 		    	</div>
 		    
-		    	<div class="col s12 m3">
-		      		<div class="card cardSlide">
+		    	<div class="col s12 m3 cardSlide">
+		      		<div class="card">
 		        		<div class="card-image">
 		        			<img src="images/feature_magazine.jpg" class="cardPic">
 		        			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal3"><i class="material-icons">search</i></a>
@@ -86,8 +86,8 @@
 		    		</div>
 		    	</div>
 		    
-		    	<div class="col s12 m3">
-		    		<div class="card cardSlide">
+		    	<div class="col s12 m3 cardSlide">
+		    		<div class="card">
 		        		<div class="card-image">
 		          			<img src="images/feature_pnmentrp.jpg" class="cardPic">
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal4"><i class="material-icons">search</i></a>

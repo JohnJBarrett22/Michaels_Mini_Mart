@@ -27,8 +27,8 @@ const carouselOffset = carousel.offsetHeight;
 const topOfNav = nav.offsetTop + carouselOffset;
 
 function fixNav(){
-	console.log("OFFSET", carouselOffset);
-	console.log(topOfNav, window.scrollY);
+	//console.log("Offset: ", carouselOffset);
+	//console.log("topOfNav :", window.scrollY);
 	if(window.scrollY >= topOfNav){
 		document.body.style.paddingTop = nav.offsetHeight + "px";
 		document.body.classList.add("sticky-nav");
@@ -41,9 +41,9 @@ function fixNav(){
 window.addEventListener("scroll", fixNav);
 
 //Slider Images
-const sliderImages = document.querySelectorAll(".cardSlide");
+const sliderElements = document.querySelectorAll(".cardSlide");
 
-function debounce(func, wait = 20, immediate = true) {
+function debounce(func, wait = 5, immediate = true) {
 	var timeout;
 	return function() {
 		var context = this, args = arguments;
@@ -59,15 +59,17 @@ function debounce(func, wait = 20, immediate = true) {
 };
 
 function checkSlide(event) {
-	console.log(event);
-	sliderImages.forEach(sliderImage => {
-		console.log(sliderImage);
-		var slideInAt = (window.scrollY + window.innerHeight) - sliderImage.height / 2;
-		var isHalfShown = slideInAt > sliderImage.offsetTop;
+	//console.log(event);
+	sliderElements.forEach(sliderElement => {
+		//console.log(sliderElement);
+		//console.log(window.scrollY, window.innerHeight, sliderElement.clientHeight);
+		var slideInAt = (window.scrollY + window.innerHeight) - sliderElement.clientHeight / 2;
+		console.log("slideInAt: ", slideInAt);
+		var isHalfShown = slideInAt > sliderElement.offsetTop;
+		console.log("isHalfShown: ", isHalfShown);
 		if(isHalfShown) {
-			sliderImage.classList.add("active");	
-		}else{
-			sliderImage.classList.remove("active")
+			sliderElement.classList.add("active");	
+			console.log("active")
 		}
 	})
 }
