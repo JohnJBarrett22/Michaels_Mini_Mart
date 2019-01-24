@@ -38,10 +38,29 @@ nav.nav-center ul li a {
 }
 
 /* Modals */
-.cardPic {
+.cardSlide {
+	opacity: 0;
+	transition: all .5s;
+}
+.inLeft.cardSlide {
+	transform: translateX(-30%) scale(0.95);
+}
+.inRight.cardSlide {
+	transform: translateX(30%) scale(0.95);
+}
+.cardSlide.active {
+	opacity: 1;
+	transform: translateX(0%) scale(1);
+}
+
+
+
+
+
+
+.cardPic 
 	min-height: 400px;
-    max-height: 400px;
-    
+    max-height: 400px;   
 }
 .reference {
 	text-align: right;

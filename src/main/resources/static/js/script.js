@@ -41,7 +41,7 @@ function fixNav(){
 window.addEventListener("scroll", fixNav);
 
 //Slider Images
-const sliderImages = document.querySelectorAll(".cardPic");
+const sliderImages = document.querySelectorAll(".cardSlide");
 
 function debounce(func, wait = 20, immediate = true) {
 	var timeout;
@@ -60,8 +60,15 @@ function debounce(func, wait = 20, immediate = true) {
 
 function checkSlide(event) {
 	console.log(event);
-	sliderImages.forEach(sliderImage = > {
-		
+	sliderImages.forEach(sliderImage => {
+		console.log(sliderImage);
+		var slideInAt = (window.scrollY + window.innerHeight) - sliderImage.height / 2;
+		var isHalfShown = slideInAt > sliderImage.offsetTop;
+		if(isHalfShown) {
+			sliderImage.classList.add("active");	
+		}else{
+			sliderImage.classList.remove("active")
+		}
 	})
 }
 
