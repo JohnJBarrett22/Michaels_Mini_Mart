@@ -54,7 +54,6 @@
 		      		<div class="card">
 		        		<div class="card-image">
 		          			<img src="images/feature_green_chili_trail.jpg" class="cardPic">
-		          			<span class="card-title">Card Title</span>
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal1"><i class="material-icons">search</i></a>
 		        		</div>
 		        		<div class="card-content">
@@ -67,7 +66,6 @@
 		      		<div class="card">
 		        		<div class="card-image">
 		          			<img src="images/feature_saveur.jpg" class="cardPic">
-		          			<span class="card-title">Card Title</span>
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal2"><i class="material-icons">search</i></a>
 		        		</div>
 		        		<div class="card-content">
@@ -80,7 +78,6 @@
 		      		<div class="card">
 		        		<div class="card-image">
 		        			<img src="images/feature_magazine.jpg" class="cardPic">
-		        			<span class="card-title">Card Title</span>
 		        			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal3"><i class="material-icons">search</i></a>
 		        		</div>
 		        		<div class="card-content">
@@ -93,7 +90,6 @@
 		    		<div class="card">
 		        		<div class="card-image">
 		          			<img src="images/feature_pnmentrp.jpg" class="cardPic">
-		          			<span class="card-title">Card Title</span>
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal4"><i class="material-icons">search</i></a>
 		        		</div>
 		        		<div class="card-content">
@@ -105,41 +101,53 @@
 				<!-- Modals -->
 				<div id="modal1" class="modal modal-fixed-footer">
 					<div class="modal-content">
-				    	<h4>Modal 1</h4>
-				      	<p>A bunch of text</p>
+				    	<h4>New Mexico Chili Cheeseburger Trail</h4>
+				      	<p>No state is more passionate about its burger than New Mexico. A juicy thick patty grilled over an open flame or sizzled on a griddle, then blanketed in molten Cheddar or other cheese, and topped off with enough New Mexican green chile to tingle the tastebuds—what could be more glorious? Michael's Mini-Mart has been honored by the state of New Mexico to be included on their Chili-Cheeseburger Trail map.</p>
 				    </div>
 				    <div class="modal-footer">
-				    	<a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+				    	<a href="#!" class="modal-close waves-effect waves-red btn-flat">Close</a>
 				    </div>
 				</div>
 				
 				<div id="modal2" class="modal modal-fixed-footer">
 					<div class="modal-content">
-				    	<h4>Modal 2</h4>
-				      	<p>A bunch of text</p>
+				    	<h4>SAVUER Magazine</h4>
+				      	<p>“When you're driving across America's wide-open spaces, your worst enemies are an empty tank and an empty belly. Although a car may not be picky about the brand of gas you put into it, a body cannot run on beef jerky alone. That's why we're crazy about NEW MEXICO ROAD FOOD. Perhaps it's the harmonious convergence of Mexican, American Indian, and Western-frontier cooking traditions found there, or maybe it's the daunting distances between population centers, but we know of no other state in the Union where you can so consistently find such tasty cooking along the asphalt byways, often only steps from the gas pump..”</p>
+						<br>
+						<p>“…Farther north, the high-desert farming town of Velarde is home to Michael's Mini Mart, an unprepossessing pit stop along State Highway 68. There, take a seat at one of three small tables and, for less than you'd spend on a couple of gallons of unleaded, order from the 48-item menu featuring co-owner Alice Romero's justly famous smothered red chile burritos, pork tacos with pico de gallo, and chicharrón burritos, packed with pork rinds, refried beans, cheddar cheese, and chiles…”</p>
+						<br>
+						<p>“18 Finest Filling Stations”</p>
+						<br>
+						<p class="reference">--Saveur Magazine, Fall 2008</p>
 				    </div>
 				    <div class="modal-footer">
-				    	<a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+				    	<a href="#!" class="modal-close waves-effect waves-red btn-flat">Close</a>
 				    </div>
 				</div>
 				
 				<div id="modal3" class="modal modal-fixed-footer">
 					<div class="modal-content">
-				    	<h4>Modal 3</h4>
-				      	<p>A bunch of text</p>
+				    	<h4>Convenience Store News</h4>
+				      	
 				    </div>
 				    <div class="modal-footer">
-				    	<a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+				    	<a href="#!" class="modal-close waves-effect waves-red btn-flat">Close</a>
 				    </div>
 				</div>
 				
 				<div id="modal4" class="modal modal-fixed-footer">
 					<div class="modal-content">
-				    	<h4>Modal 4</h4>
-				      	<p>A bunch of text</p>
+				    	<h4>PNM Rural Entrepreneurs of the Year 2007</h4>
+				      	<p>The Romero family exemplifies the possibilities offered by entrepreneurship. Michael & Alice Romero and their daughters have fulfilled the American dream in a very personal way. The current success of Michael's Mini-Mart follows the patterns of success the family established with their first business, a Tastee Freeze franchise they opened in Espanola in 1971. To be technically accurate, Michael's Mini-Mart, purchased in 1998, is located in Velarde, or suburban Espanola. In addition to providing goods and services to travels in northern New Mexico, the store serves as the unofficial town square of Velarde.</p>
+				      	<br>
+				      	<p>The Romeros have the gift of hospitality that allows them to serve their community in a manner that is uplifting to all those involved. From providing job training and employment opportunities to three generations of New Mexicans to numerous community events where they feed thousands of people the Romero family is constantly reaching out to their Northern New Mexico neighbors.</p>
+				      	<br>
+				      	<p>Michael and Alice are involved full time with the company while their daughters, Mikell and Mikelynn are officers in The Romero Family, Inc. Both daughters have masters degrees, and work in successful careers away from the family business. Despite their jobs away from Velarde, Mikell and Mikelynn continue their family tradition of service with a program to feed those in need in northern New Mexico when they return home for Christmas each year.</p>
+				      	<br>
+				      	<p>With annual sales of over $1.0 million, the Romeros are a true New Mexico success story. They are self-made entrepreneurs who rose from extremely humble beginnings and limited formal education to own two successful business, create a role model for their children and make their community a better place to live.</p>
 				    </div>
 				    <div class="modal-footer">
-				    	<a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+				    	<a href="#!" class="modal-close waves-effect waves-red btn-flat">Close</a>
 				    </div>
 				</div>
 		    	
