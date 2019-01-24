@@ -53,9 +53,9 @@
 		    	<div class="col s12 m3">
 		      		<div class="card">
 		        		<div class="card-image">
-		          			<img src="images/feature_magazine.jpg" class="cardPic">
+		          			<img src="images/feature_green_chili_trail.jpg" class="cardPic">
 		          			<span class="card-title">Card Title</span>
-		          			<a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">search</i></a>
+		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal1"><i class="material-icons">search</i></a>
 		        		</div>
 		        		<div class="card-content">
 		          			<p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
@@ -68,7 +68,7 @@
 		        		<div class="card-image">
 		          			<img src="images/feature_saveur.jpg" class="cardPic">
 		          			<span class="card-title">Card Title</span>
-		          			<a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">search</i></a>
+		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal2"><i class="material-icons">search</i></a>
 		        		</div>
 		        		<div class="card-content">
 		          			<p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
@@ -79,9 +79,9 @@
 		    	<div class="col s12 m3">
 		      		<div class="card">
 		        		<div class="card-image">
-		        			<img src="images/feature_saveur.jpg" class="cardPic">
+		        			<img src="images/feature_magazine.jpg" class="cardPic">
 		        			<span class="card-title">Card Title</span>
-		        			<a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">search</i></a>
+		        			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal3"><i class="material-icons">search</i></a>
 		        		</div>
 		        		<div class="card-content">
 		          			<p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
@@ -94,13 +94,54 @@
 		        		<div class="card-image">
 		          			<img src="images/feature_pnmentrp.jpg" class="cardPic">
 		          			<span class="card-title">Card Title</span>
-		          			<a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">search</i></a>
+		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal4"><i class="material-icons">search</i></a>
 		        		</div>
 		        		<div class="card-content">
 		          			<p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
 		        		</div>
 		      		</div>
 		    	</div>
+
+				<!-- Modals -->
+				<div id="modal1" class="modal modal-fixed-footer">
+					<div class="modal-content">
+				    	<h4>Modal 1</h4>
+				      	<p>A bunch of text</p>
+				    </div>
+				    <div class="modal-footer">
+				    	<a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+				    </div>
+				</div>
+				
+				<div id="modal2" class="modal modal-fixed-footer">
+					<div class="modal-content">
+				    	<h4>Modal 2</h4>
+				      	<p>A bunch of text</p>
+				    </div>
+				    <div class="modal-footer">
+				    	<a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+				    </div>
+				</div>
+				
+				<div id="modal3" class="modal modal-fixed-footer">
+					<div class="modal-content">
+				    	<h4>Modal 3</h4>
+				      	<p>A bunch of text</p>
+				    </div>
+				    <div class="modal-footer">
+				    	<a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+				    </div>
+				</div>
+				
+				<div id="modal4" class="modal modal-fixed-footer">
+					<div class="modal-content">
+				    	<h4>Modal 4</h4>
+				      	<p>A bunch of text</p>
+				    </div>
+				    <div class="modal-footer">
+				    	<a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+				    </div>
+				</div>
 		    	
 		    </div>
 		    <div class="col m1"></div>
@@ -114,6 +155,9 @@
   	
   	<section id="alices-food">
 	  	<h1>More text</h1>
+	  	
+
+  
 	  	<h1>More text</h1>
   	</section>
   	

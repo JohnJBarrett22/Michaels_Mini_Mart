@@ -13,6 +13,12 @@ document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.parallax');
     var instances = M.Parallax.init(elems);
 });
+
+//Modal Initialize
+document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.modal');
+    var instances = M.Modal.init(elems);
+  });
   
 //Sticky navigation
 const carousel = document.querySelector("#mainCarousel")
