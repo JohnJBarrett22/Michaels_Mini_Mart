@@ -41,8 +41,12 @@ nav.nav-center ul li a {
 .cardPic {
 	min-height: 400px;
     max-height: 400px;
+    
 }
 .reference {
 	text-align: right;
 	font-style: italic;
+}
+.modalTitle {
+	color: #E53935;
 }
