@@ -17,25 +17,29 @@
 </head>
 <body>
 	
-	<div class="carousel carousel-slider" id="mainCarousel">
-    	<a class="carousel-item" href="#one!"><img src="images/front.jpg"></a>
-    	<a class="carousel-item" href="#two!"><img src="images/retail_display.jpg"></a>
-    	<a class="carousel-item" href="#three!"><img src="images/retail_eating.jpg"></a>
-    </div>
-    
-    <nav class="nav-center red darken-1" id="siteNav">
-    	<div class="nav-wrapper">
-      		<ul id="nav-mobile" class="center hide-on-med-and-down">
-        		<li><a href="#about">About</a></li>
-        		<li><a href="#media_awards">Media & Awards</a></li>
-        		<li><a href="#alices-food">Alice's Food</a></li>
-        		<li><a href="#events">Events</a></li>
-        		<li><a href="#liquor">Liquor</a></li>
-        		<li><a href="#contact-us">Contact</a></li>
-      		</ul>
-    	</div>
-  	</nav>
+	<!-- Home -->
+	 	<section id="home">
+		<div class="carousel carousel-slider" id="mainCarousel">
+	    	<a class="carousel-item" href="#one!"><img src="images/front.jpg"></a>
+	    	<a class="carousel-item" href="#two!"><img src="images/retail_display.jpg"></a>
+	    	<a class="carousel-item" href="#three!"><img src="images/retail_eating.jpg"></a>
+	    </div>
+	    
+	    <nav class="nav-center red darken-1" id="siteNav">
+	    	<div class="nav-wrapper">
+	      		<ul id="nav-mobile" class="center hide-on-med-and-down">
+	        		<li><a href="#about">About</a></li>
+	        		<li><a href="#alices-food">Alice's Food</a></li>
+	        		<li><a href="#media_awards">Media & Awards</a></li>
+	        		<li><a href="#events">Events</a></li>
+	        		<li><a href="#local">Local</a></li>
+	        		<li><a href="#contact-us">Contact</a></li>
+	      		</ul>
+	    	</div>
+	  	</nav>
+  	</section>
   	
+  	<!-- About -->
  	<section id="about">
  		<div class="row">
 			<div class="col m1"></div>
@@ -48,12 +52,34 @@
 	  		</div>
 	  		<div class="col m1"></div>
   		</div>
+  	
+	  	<div class="parallax-container">
+	    	<div class="parallax"><img src="images/retail_fixture.jpg"></div>
+	    </div>
   	</section>
   	
-  	<div class="parallax-container">
-    	<div class="parallax"><img src="images/retail_fixture.jpg"></div>
-    </div>
+  	<!-- Alice's Food -->
+  	<section id="alices-food">
+ 		<div class="row">
+			<div class="col m1"></div>
+			<div class="col m10">
+				<h1>Favorites by Alice</h1>
+	  			<p>“Favorites by Alice” refers to the great recipes that were crowd favorites at Mike’s Place, the Romero's restaurant in the neighboring city of Española. Alice has turned on the stove again at Michael's Mini-Mart to offer a wide variety of fresh-hot food during the morning, day, and evening for breakfast, lunch, dinner, snacks, or comfort food! Included are traditional stand-by's and spicy local favorites.</p>
+	  			<h1>More text</h1>
+	  			<h1>More text</h1>
+	  		</div>
+	  		<div class="col m1"></div>
+  		</div>
+  	  	
+	 	<div class="carousel carousel-slider carouselSlim">
+	    	<a class="carousel-item" href="#one!"><img src="images/food_tacos.jpg"></a>
+	    	<a class="carousel-item" href="#two!"><img src="images/food_pizza.jpg"></a>
+	    	<a class="carousel-item" href="#three!"><img src="images/food_taquitos.jpg"></a>
+	    	<a class="carousel-item" href="#four!"><img src="images/food_beer.jpg"></a>
+	    </div>
+  	</section>
   	
+  	<!-- Media & Awards -->
   	<section id="media_awards">
 	  	<h1>Media & Awards</h1>
 	  	
@@ -108,7 +134,6 @@
 		      		</div>
 		    	</div>
 
-				<!-- Modals -->
 				<div id="modal1" class="modal modal-fixed-footer">
 					<div class="modal-content">
 				    	<h4 class="modalTitle">New Mexico Chili Cheeseburger Trail</h4>
@@ -167,83 +192,66 @@
 		    <div class="col m1"></div>
 	    </div>
 	  	
-  	</section>
-
-	<div class="parallax-container">
-    	<div class="parallax"><img src="images/retail_cooler.jpg"></div>
-    </div>
+		<div class="parallax-container">
+	    	<div class="parallax"><img src="images/retail_cooler.jpg"></div>
+	    </div>
+    </section>
   	
-  	<section id="alices-food">
- 		<div class="row">
-			<div class="col m1"></div>
-			<div class="col m10">
-				<h1>Favorites by Alice</h1>
-	  			<p>“Favorites by Alice” refers to the great recipes that were crowd favorites at Mike’s Place, the Romero's restaurant in the neighboring city of Española. Alice has turned on the stove again at Michael's Mini-Mart to offer a wide variety of fresh-hot food during the morning, day, and evening for breakfast, lunch, dinner, snacks, or comfort food! Included are traditional stand-by's and spicy local favorites.</p>
-	  			<h1>More text</h1>
-	  			<h1>More text</h1>
-	  		</div>
-	  		<div class="col m1"></div>
-  		</div>
+  	<!-- Local -->  	
+  	<section id="local">
   	</section>
   	
- 	<div class="carousel carousel-slider carouselSlim">
-    	<a class="carousel-item" href="#one!"><img src="images/food_tacos.jpg"></a>
-    	<a class="carousel-item" href="#two!"><img src="images/food_pizza.jpg"></a>
-    	<a class="carousel-item" href="#three!"><img src="images/food_taquitos.jpg"></a>
-    	<a class="carousel-item" href="#four!"><img src="images/food_beer.jpg"></a>
-    </div>
-  	
+  	<!-- Contact Us -->  	
   	<section id="contact-us">
 	  	<h1>More text</h1>
 	  	<h1>More text</h1>
-  	</section>
-  	
-    <footer class="page-footer red darken-1">
-    	<div class="container">
-        	<div class="row">
-          		<div class="col l6 s12">
-            		<h5 class="white-text">Michael's Mini-Mart</h5>
-            		<p class="grey-text text-lighten-4">1410 Highway 68 N, Velarde, NM 87582</p>
-            		<p class="grey-text text-lighten-4">505-852-4769</p>
-          		</div>
-          		<div class="col l4 offset-l2 s12">
-		            <ul>
-	              		<li><a class="grey-text text-lighten-3 modal-trigger" href="#modal5">Privacy</a></li>
-	              		<li><a class="grey-text text-lighten-3 modal-trigger" href="#modal6">Terms & Conditions</a></li>
-		            </ul>
-          		</div>
-       		</div>
-      	</div>
-      	<div class="footer-copyright">
-        	<div class="container">
-        		© 2019 Copyrighted by Michael's Mini-Mart
-        		<a class="grey-text text-lighten-4 right" href="https://www.facebook.com/MichaelsMinimartVelarde/"><i class="fab fa-facebook-square fa-2x icon"></i></a>
-        		<a class="grey-text text-lighten-4 right" href="mailto:michaels.minimart@gmail.com"><i class="fas fa-envelope fa-2x icon"></i></a>
-        		<a class="grey-text text-lighten-4 right" href="tel:505-852-4769"><i class="fas fa-phone fa-2x icon"></i></i></a>
-        	</div>
-      	</div>
-      	
-  		<div id="modal5" class="modal bottom-sheet">
-    		<div class="modal-content">
-      			<h4>Modal Header</h4>
-      			<p>A bunch of text</p>
-    		</div>
-    		<div class="modal-footer">
-      			<a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
-    		</div>
-  		</div>
-  
-    	<div id="modal6" class="modal bottom-sheet">
-    		<div class="modal-content">
-      			<h4>Modal Header</h4>
-      			<p>A bunch of text</p>
-    		</div>
-    		<div class="modal-footer">
-      			<a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
-    		</div>
-  		</div>
-      	
-    </footer>
+	    <footer class="page-footer red darken-1">
+	    	<div class="container">
+	        	<div class="row">
+	          		<div class="col l6 s12">
+	            		<h5 class="white-text">Michael's Mini-Mart</h5>
+	            		<p class="grey-text text-lighten-4">1410 Highway 68 N, Velarde, NM 87582</p>
+	            		<p class="grey-text text-lighten-4">505-852-4769</p>
+	          		</div>
+	          		<div class="col l4 offset-l2 s12">
+			            <ul>
+		              		<li><a class="grey-text text-lighten-3 modal-trigger" href="#modal5">Privacy</a></li>
+		              		<li><a class="grey-text text-lighten-3 modal-trigger" href="#modal6">Terms & Conditions</a></li>
+			            </ul>
+	          		</div>
+	       		</div>
+	      	</div>
+	      	<div class="footer-copyright">
+	        	<div class="container">
+	        		© 2019 Copyrighted by Michael's Mini-Mart
+	        		<a class="grey-text text-lighten-4 right" href="https://www.facebook.com/MichaelsMinimartVelarde/"><i class="fab fa-facebook-square fa-2x icon"></i></a>
+	        		<a class="grey-text text-lighten-4 right" href="mailto:michaels.minimart@gmail.com"><i class="fas fa-envelope fa-2x icon"></i></a>
+	        		<a class="grey-text text-lighten-4 right" href="tel:505-852-4769"><i class="fas fa-phone fa-2x icon"></i></i></a>
+	        	</div>
+	      	</div>
+	      	
+	  		<div id="modal5" class="modal bottom-sheet">
+	    		<div class="modal-content">
+	      			<h4>Modal Header</h4>
+	      			<p>A bunch of text</p>
+	    		</div>
+	    		<div class="modal-footer">
+	      			<a href="#!" class="modal-close waves-effect waves-red btn-flat">Agree</a>
+	    		</div>
+	  		</div>
+	  
+	    	<div id="modal6" class="modal bottom-sheet">
+	    		<div class="modal-content">
+	      			<h4>Modal Header</h4>
+	      			<p>A bunch of text</p>
+	    		</div>
+	    		<div class="modal-footer">
+	      			<a href="#!" class="modal-close waves-effect waves-red btn-flat">Agree</a>
+	    		</div>
+	  		</div>
+	      	
+	    </footer>
+	</section>
 	
   	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 	<script type="text/javascript" src="/js/script.js"></script>
