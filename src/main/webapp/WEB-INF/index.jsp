@@ -174,8 +174,16 @@
     </div>
   	
   	<section id="alices-food">
-	  	<h1>More text</h1>
-	  	<h1>More text</h1>
+ 		<div class="row">
+			<div class="col m1"></div>
+			<div class="col m10">
+				<h1>Favorites by Alice</h1>
+	  			<p>“Favorites by Alice” refers to the great recipes that were crowd favorites at Mike’s Place, the Romero's restaurant in the neighboring city of Española. Alice has turned on the stove again at Michael's Mini-Mart to offer a wide variety of fresh-hot food during the morning, day, and evening for breakfast, lunch, dinner, snacks, or comfort food! Included are traditional stand-by's and spicy local favorites.</p>
+	  			<h1>More text</h1>
+	  			<h1>More text</h1>
+	  		</div>
+	  		<div class="col m1"></div>
+  		</div>
   	</section>
   	
  	<div class="carousel carousel-slider carouselSlim">
@@ -200,8 +208,8 @@
           		</div>
           		<div class="col l4 offset-l2 s12">
 		            <ul>
-	              		<li><a class="grey-text text-lighten-3" href="#!">Privacy</a></li>
-	              		<li><a class="grey-text text-lighten-3" href="#!">Terms & Conditions</a></li>
+	              		<li><a class="grey-text text-lighten-3 modal-trigger" href="#modal5">Privacy</a></li>
+	              		<li><a class="grey-text text-lighten-3 modal-trigger" href="#modal6">Terms & Conditions</a></li>
 		            </ul>
           		</div>
        		</div>
@@ -214,6 +222,27 @@
         		<a class="grey-text text-lighten-4 right" href="tel:505-852-4769"><i class="fas fa-phone fa-2x icon"></i></i></a>
         	</div>
       	</div>
+      	
+  		<div id="modal5" class="modal bottom-sheet">
+    		<div class="modal-content">
+      			<h4>Modal Header</h4>
+      			<p>A bunch of text</p>
+    		</div>
+    		<div class="modal-footer">
+      			<a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+    		</div>
+  		</div>
+  
+    	<div id="modal6" class="modal bottom-sheet">
+    		<div class="modal-content">
+      			<h4>Modal Header</h4>
+      			<p>A bunch of text</p>
+    		</div>
+    		<div class="modal-footer">
+      			<a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+    		</div>
+  		</div>
+      	
     </footer>
 	
   	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
