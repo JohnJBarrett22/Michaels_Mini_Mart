@@ -8,6 +8,15 @@ document.addEventListener('DOMContentLoaded', function() {
     var instances = M.Carousel.init(elems, options);
 });
 
+document.addEventListener('DOMContentLoaded', function() {
+	var elems = document.querySelectorAll('.carouselSlim');
+    var options = {
+    	fullWidth: true,
+    	indicators: true
+    }
+    var instances = M.Carousel.init(elems, options);
+});
+
 //Parallax initialize
 document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.parallax');
@@ -81,7 +90,7 @@ $(document).ready(function(){
 	$('.carousel').carousel({
 	    padding: 200    
 	});
-	autoplay();
+	setTimeout(autoplay, 4500);
 	function autoplay() {
 	    $('.carousel').carousel('next');
 	    setTimeout(autoplay, 4500);

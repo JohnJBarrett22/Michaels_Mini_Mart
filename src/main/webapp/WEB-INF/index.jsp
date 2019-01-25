@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.css">
 <link rel="stylesheet" href="/css/main.css">
-<title>Michael's Mini Mart</title>
+<title>Michael's Mini-Mart</title>
 </head>
 <body>
 	
@@ -27,9 +27,9 @@
     	<div class="nav-wrapper">
       		<ul id="nav-mobile" class="center hide-on-med-and-down">
         		<li><a href="#about">About</a></li>
+        		<li><a href="#media_awards">Media & Awards</a></li>
         		<li><a href="#alices-food">Alice's Food</a></li>
         		<li><a href="#events">Events</a></li>
-        		<li><a href="#menu">Menu</a></li>
         		<li><a href="#liquor">Liquor</a></li>
         		<li><a href="#contact-us">Contact</a></li>
       		</ul>
@@ -37,15 +37,24 @@
   	</nav>
   	
  	<section id="about">
-  		<h1 class="ctr">Michael's Mini-Mart</h1>
-  		<h2 class="ctr">Welcome to the biggest little store in New Mexico!</h2>
+ 		<div class="row">
+			<div class="col m1"></div>
+			<div class="col m10">
+	  			<h1 class="ctr">Michael's Mini-Mart</h1>
+	  			<h2 class="ctr">Welcome to the biggest little store in New Mexico!</h2>
+	  			<p>Michael's Mini-Mart, Featuring Your Favorites by Alice is located on New Mexico Route 68 (the Taos Highway) in the Española Valley halfway between Santa Fe and Taos in beautiful Velarde. Mike's store has been in the Romero family for over 50 years and is your source for supplies ranging from groceries, snacks, drinks, beer, wine, and liquor and, of course, Alice's internationally famous food.</p>
+	  			<br>
+	  			<p>If you're headed to Taos on vacation any time of the year, Michael's is THE place to stop to gas up, get some food for the road, stock up on your party supplies, and to try some of Alice's fine recipes. It's the only convenience store in Velarde and the closest one for more than eleven miles.</p>
+	  		</div>
+	  		<div class="col m1"></div>
+  		</div>
   	</section>
   	
   	<div class="parallax-container">
     	<div class="parallax"><img src="images/retail_fixture.jpg"></div>
     </div>
   	
-  	<section id="about">
+  	<section id="media_awards">
 	  	<h1>Media & Awards</h1>
 	  	
 		<div class="row">
@@ -166,13 +175,10 @@
   	
   	<section id="alices-food">
 	  	<h1>More text</h1>
-	  	
-
-  
 	  	<h1>More text</h1>
   	</section>
   	
- 	<div class="carousel carousel-slider">
+ 	<div class="carousel carousel-slider carouselSlim">
     	<a class="carousel-item" href="#one!"><img src="images/food_tacos.jpg"></a>
     	<a class="carousel-item" href="#two!"><img src="images/food_pizza.jpg"></a>
     	<a class="carousel-item" href="#three!"><img src="images/food_taquitos.jpg"></a>
