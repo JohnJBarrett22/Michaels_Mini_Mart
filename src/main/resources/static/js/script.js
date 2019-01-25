@@ -5,13 +5,13 @@ document.addEventListener('DOMContentLoaded', function() {
     	fullWidth: true,
     	indicators: true
     }
-    var instances = M.Carousel.init(elems, options)  
+    var instances = M.Carousel.init(elems, options);
 });
 
 //Parallax initialize
 document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.parallax');
-    var instances = M.Parallax.init(elems);
+    var instances = M.Parallax.init(elems)
 });
 
 //Modal Initialize
@@ -75,3 +75,15 @@ function checkSlide(event) {
 }
 
 window.addEventListener("scroll", debounce(checkSlide));
+
+//jQuery
+$(document).ready(function(){
+	$('.carousel').carousel({
+	    padding: 200    
+	});
+	autoplay();
+	function autoplay() {
+	    $('.carousel').carousel('next');
+	    setTimeout(autoplay, 4500);
+	}
+});
