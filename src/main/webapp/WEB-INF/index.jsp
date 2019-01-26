@@ -29,6 +29,7 @@
 	    
 	    <nav class="nav-center red darken-1" id="siteNav">
 	    	<div class="nav-wrapper">
+	    	<a href="#home" class="brand-logo miniLogo">Logo</a>
 	      		<ul id="nav-mobile" class="center hide-on-med-and-down">
 	        		<li><a href="#about">About</a></li>
 	        		<li><a href="#alices-food">Alice's Food</a></li>

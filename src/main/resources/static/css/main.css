@@ -23,7 +23,7 @@ html {
 	margin: 0 .75rem;
 }
 
-/* To center navigation bar option */
+/* Center Nav */
 nav.nav-center ul {
     text-align: center;
 }
@@ -35,7 +35,17 @@ nav.nav-center ul li a {
     display: inline-block;
 }
 
-/* Sticky header */
+/* Mini Logo */
+a.miniLogo {
+	max-width: 0;
+	overflow: hidden;
+	transition: all 5s;
+}
+.sticky-nav a.miniLogo {
+	max-width: 500px;
+}
+
+/* Sticky Header */
 .sticky-nav nav {
 	position: fixed;
 	top: 0;

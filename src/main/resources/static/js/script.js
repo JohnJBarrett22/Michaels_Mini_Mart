@@ -33,13 +33,18 @@ document.addEventListener('DOMContentLoaded', function() {
 const carousel = document.querySelector("#mainCarousel")
 const nav = document.querySelector("#siteNav")
 const carouselOffset = carousel.offsetHeight;
+var navOffset = nav.offsetTop;
 
+document.addEventListener('DOMContentLoaded', function(){ 
+	navOffset = nav.offsetTop;
+}, false);
 
 function fixNav(){
-//	console.log("nav.offsetTop: ", nav.offsetTop);
-//	console.log("carouselOffset: ", carouselOffset);
-//	console.log("scrollY: ", window.scrollY);
-	if(window.scrollY >= nav.offsetTop){
+	console.log("navOffset: ", navOffset);
+	console.log("nav.offsetTop: ", nav.offsetTop);
+	console.log("carouselOffset: ", carouselOffset);
+	console.log("scrollY: ", window.scrollY);
+	if(window.scrollY >= navOffset){
 		document.body.style.paddingTop = nav.offsetHeight + "px";
 		document.body.classList.add("sticky-nav");
 	}else{
