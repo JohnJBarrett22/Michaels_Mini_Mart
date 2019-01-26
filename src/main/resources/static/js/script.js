@@ -33,12 +33,13 @@ document.addEventListener('DOMContentLoaded', function() {
 const carousel = document.querySelector("#mainCarousel")
 const nav = document.querySelector("#siteNav")
 const carouselOffset = carousel.offsetHeight;
-const topOfNav = nav.offsetTop + carouselOffset;
+
 
 function fixNav(){
-	//console.log("Offset: ", carouselOffset);
-	//console.log("topOfNav :", window.scrollY);
-	if(window.scrollY >= topOfNav){
+//	console.log("nav.offsetTop: ", nav.offsetTop);
+//	console.log("carouselOffset: ", carouselOffset);
+//	console.log("scrollY: ", window.scrollY);
+	if(window.scrollY >= nav.offsetTop){
 		document.body.style.paddingTop = nav.offsetHeight + "px";
 		document.body.classList.add("sticky-nav");
 	}else{
@@ -68,14 +69,14 @@ function debounce(func, wait = 5, immediate = true) {
 };
 
 function checkSlide(event) {
-	//console.log(event);
+//	console.log(event);
 	sliderElements.forEach(sliderElement => {
-		//console.log(sliderElement);
-		//console.log(window.scrollY, window.innerHeight, sliderElement.clientHeight);
+//		console.log(sliderElement);
+//		console.log(window.scrollY, window.innerHeight, sliderElement.clientHeight);
 		var slideInAt = (window.scrollY + window.innerHeight) - sliderElement.clientHeight / 2;
-		console.log("slideInAt: ", slideInAt);
+//		console.log("slideInAt: ", slideInAt);
 		var isHalfShown = slideInAt > sliderElement.offsetTop;
-		console.log("isHalfShown: ", isHalfShown);
+//		console.log("isHalfShown: ", isHalfShown);
 		if(isHalfShown) {
 			sliderElement.classList.add("active");	
 			console.log("active")

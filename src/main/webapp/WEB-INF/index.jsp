@@ -90,50 +90,50 @@
 			<div class="col m1"></div>
 			<div class="col m10">
 			 	<h1>Media & Awards</h1>
-		    	<div class="col s12 m3 cardSlide">
+		    	<div class="col s12 m6 l3 cardSlide">
 		      		<div class="card">
 		        		<div class="card-image">
 		          			<img src="images/feature_green_chili_trail.jpg" class="cardPic">
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal1"><i class="material-icons">search</i></a>
 		        		</div>
 		        		<div class="card-content">
-		          			<p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+		          			<p>"Michael's Mini-Mart has been honored by the state of New Mexico to be included on their Chili-Cheeseburger Trail map."</p>
 		        		</div>
 		     		</div>
 		    	</div>
 		    
-		   		<div class="col s12 m3 cardSlide">
+		   		<div class="col s12 m6 l3 cardSlide">
 		      		<div class="card">
 		        		<div class="card-image">
 		          			<img src="images/feature_saveur.jpg" class="cardPic">
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal2"><i class="material-icons">search</i></a>
 		        		</div>
 		        		<div class="card-content">
-		          			<p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+		          			<p>"Farther north, the high-desert farming town of Velarde is home to Michael's Mini Mart, an unprepossessing pit stop along State Highway 68."</p>
 		        		</div>
 		      		</div>
 		    	</div>
 		    
-		    	<div class="col s12 m3 cardSlide">
+		    	<div class="col s12 m6 l3 cardSlide">
 		      		<div class="card">
 		        		<div class="card-image">
 		        			<img src="images/feature_magazine.jpg" class="cardPic">
 		        			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal3"><i class="material-icons">search</i></a>
 		        		</div>
 		        		<div class="card-content">
-		          			<p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+		          			<p>"But it is the store's Your Favorites by Alice restaurant that makes Michael's Mini-Mart a high-priority stop on the Low Road to Taos."</p>
 		        		</div>
 		    		</div>
 		    	</div>
 		    
-		    	<div class="col s12 m3 cardSlide">
+		    	<div class="col s12 m6 l3 cardSlide">
 		    		<div class="card">
 		        		<div class="card-image">
 		          			<img src="images/feature_pnmentrp.jpg" class="cardPic">
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal4"><i class="material-icons">search</i></a>
 		        		</div>
 		        		<div class="card-content">
-		          			<p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+		          			<p>"The Romeros have the gift of hospitality that allows them to serve their community in a manner that is uplifting to all those involved."</p>
 		        		</div>
 		      		</div>
 		    	</div>
@@ -167,7 +167,7 @@
 				<div id="modal3" class="modal modal-fixed-footer">
 					<div class="modal-content">
 				    	<h4 class="modalTitle">Convenience Store News</h4>
-				      	
+				      	<p></p>
 				    </div>
 				    <div class="modal-footer">
 				    	<a href="#!" class="modal-close waves-effect waves-red btn-flat">Close</a>
@@ -235,7 +235,7 @@
 	          		</div>
 	          		<div class="col l4 offset-l2 s12">
 			            <ul>
-		              		<li><a class="grey-text text-lighten-3 modal-trigger" href="#modal5">Privacy</a></li>
+		              		<li><a class="grey-text text-lighten-3 modal-trigger" href="#modal5">Privacy Policy</a></li>
 		              		<li><a class="grey-text text-lighten-3 modal-trigger" href="#modal6">Terms & Conditions</a></li>
 			            </ul>
 	          		</div>
@@ -252,7 +252,7 @@
 	      	
 	  		<div id="modal5" class="modal bottom-sheet">
 	    		<div class="modal-content">
-	      			<h4>Modal Header</h4>
+	      			<h4 class="modalTitle">Privacy Policy</h4>
 	      			<p>A bunch of text</p>
 	    		</div>
 	    		<div class="modal-footer">
@@ -262,7 +262,7 @@
 	  
 	    	<div id="modal6" class="modal bottom-sheet">
 	    		<div class="modal-content">
-	      			<h4>Modal Header</h4>
+	      			<h4 class="modalTitle">Terms & Conditions</h4>
 	      			<p>A bunch of text</p>
 	    		</div>
 	    		<div class="modal-footer">
