@@ -6,7 +6,12 @@
 
 /* Full Page */
 html {
-  scroll-behavior: smooth;
+	scroll-behavior: smooth;
+}
+.logo {
+	text-align: center;
+	margin: 1rem;
+	margin-top: 3rem;
 }
 .ctr {
 	text-align: center;

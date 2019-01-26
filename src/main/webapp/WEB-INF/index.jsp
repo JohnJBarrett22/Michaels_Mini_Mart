@@ -8,6 +8,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="keywords" content="convenience, min-mart, store, gas, food, groceries, Michael's, Alice, liquor, package, beer, wine, diapers, Taos, Santa Fe, Velarde, Espanola, chips, snacks, candy, lottery tickets, tourists, travel, locals, burrito, taco, taquitos, chili, chile, soup, pizza">
+<meta name="description" content="Michael's Mini-Mart features Your Favorites by Alice is the primary Mini-Mart and Convenience Store between Taos and Santa Fe, New Mexico offering great food, groceries, snacks, supplies and package liquor.">
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
@@ -18,7 +20,7 @@
 <body>
 	
 	<!-- Home -->
-	 	<section id="home">
+	<section id="home">
 		<div class="carousel carousel-slider" id="mainCarousel">
 	    	<a class="carousel-item" href="#one!"><img src="images/front.jpg"></a>
 	    	<a class="carousel-item" href="#two!"><img src="images/retail_display.jpg"></a>
@@ -31,8 +33,7 @@
 	        		<li><a href="#about">About</a></li>
 	        		<li><a href="#alices-food">Alice's Food</a></li>
 	        		<li><a href="#media_awards">Media & Awards</a></li>
-	        		<li><a href="#events">Events</a></li>
-	        		<li><a href="#local">Local</a></li>
+	        		<li><a href="#locale">Locale</a></li>
 	        		<li><a href="#contact-us">Contact</a></li>
 	      		</ul>
 	    	</div>
@@ -44,7 +45,11 @@
  		<div class="row">
 			<div class="col m1"></div>
 			<div class="col m10">
-	  			<h1 class="ctr">Michael's Mini-Mart</h1>
+				<div class="row">
+					<div class="col m1"></div>
+	  				<img class="col m10 logo" src="images/mmm_logo.jpg">
+	  				<div class="col m1"></div>
+	  			</div>
 	  			<h2 class="ctr">Welcome to the biggest little store in New Mexico!</h2>
 	  			<p>Michael's Mini-Mart, Featuring Your Favorites by Alice is located on New Mexico Route 68 (the Taos Highway) in the Española Valley halfway between Santa Fe and Taos in beautiful Velarde. Mike's store has been in the Romero family for over 50 years and is your source for supplies ranging from groceries, snacks, drinks, beer, wine, and liquor and, of course, Alice's internationally famous food.</p>
 	  			<br>
@@ -81,11 +86,10 @@
   	
   	<!-- Media & Awards -->
   	<section id="media_awards">
-	  	<h1>Media & Awards</h1>
-	  	
 		<div class="row">
 			<div class="col m1"></div>
 			<div class="col m10">
+			 	<h1>Media & Awards</h1>
 		    	<div class="col s12 m3 cardSlide">
 		      		<div class="card">
 		        		<div class="card-image">
@@ -187,7 +191,6 @@
 				    	<a href="#!" class="modal-close waves-effect waves-red btn-flat">Close</a>
 				    </div>
 				</div>
-		    	
 		    </div>
 		    <div class="col m1"></div>
 	    </div>
@@ -197,14 +200,31 @@
 	    </div>
     </section>
   	
-  	<!-- Local -->  	
-  	<section id="local">
+  	<!-- Locale -->  	
+  	<section id="locale">
+  		<div class="row">
+	  		<div class="col m1"></div>
+			<div class="col m10">
+		  		<h1>More text</h1>
+			  	<h1>More text</h1>
+		  	</div>
+		  	<div class="col m1"></div>
+	    </div>
+	   	<div class="parallax-container">
+			<div class="parallax"><img src="images/state_outdoor.jpg"></div>
+		</div>
   	</section>
   	
   	<!-- Contact Us -->  	
   	<section id="contact-us">
-	  	<h1>More text</h1>
-	  	<h1>More text</h1>
+  	  	<div class="row">
+	  		<div class="col m1"></div>
+			<div class="col m10">
+		  		<h1>More text</h1>
+			  	<h1>More text</h1>
+		  	</div>
+		  	<div class="col m1"></div>
+	    </div>
 	    <footer class="page-footer red darken-1">
 	    	<div class="container">
 	        	<div class="row">
@@ -249,7 +269,6 @@
 	      			<a href="#!" class="modal-close waves-effect waves-red btn-flat">Agree</a>
 	    		</div>
 	  		</div>
-	      	
 	    </footer>
 	</section>
 	
