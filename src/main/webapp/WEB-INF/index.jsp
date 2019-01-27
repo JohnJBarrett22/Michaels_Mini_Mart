@@ -30,6 +30,7 @@
 	    <nav class="nav-center red darken-1" id="siteNav">
 	    	<div class="nav-wrapper">
 	    	<a href="#home" class="brand-logo miniLogo">Logo</a>
+	    	<a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
 	      		<ul id="nav-mobile" class="center hide-on-med-and-down">
 	        		<li><a href="#about">About</a></li>
 	        		<li><a href="#alices-food">Alice's Food</a></li>
@@ -39,6 +40,14 @@
 	      		</ul>
 	    	</div>
 	  	</nav>
+	  	
+	  	<ul class="sidenav mobileNav" id="mobile-demo">
+	        <li><a href="#about">About</a></li>
+	        <li><a href="#alices-food">Alice's Food</a></li>
+	        <li><a href="#media_awards">Media & Awards</a></li>
+	        <li><a href="#locale">Locale</a></li>
+	        <li><a href="#contact-us">Contact</a></li>
+  		</ul>
   	</section>
   	
   	<!-- About -->
@@ -97,7 +106,7 @@
 		          			<img src="images/feature_green_chili_trail.jpg" class="cardPic">
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal1"><i class="material-icons">search</i></a>
 		        		</div>
-		        		<div class="card-content">
+		        		<div class="card-content cardTextBox">
 		          			<p>"Michael's Mini-Mart has been honored by the state of New Mexico to be included on their Chili-Cheeseburger Trail map."</p>
 		        		</div>
 		     		</div>
@@ -109,7 +118,7 @@
 		          			<img src="images/feature_saveur.jpg" class="cardPic">
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal2"><i class="material-icons">search</i></a>
 		        		</div>
-		        		<div class="card-content">
+		        		<div class="card-content cardTextBox">
 		          			<p>"Farther north, the high-desert farming town of Velarde is home to Michael's Mini Mart, an unprepossessing pit stop along State Highway 68."</p>
 		        		</div>
 		      		</div>
@@ -121,7 +130,7 @@
 		        			<img src="images/feature_magazine.jpg" class="cardPic">
 		        			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal3"><i class="material-icons">search</i></a>
 		        		</div>
-		        		<div class="card-content">
+		        		<div class="card-content cardTextBox">
 		          			<p>"But it is the store's Your Favorites by Alice restaurant that makes Michael's Mini-Mart a high-priority stop on the Low Road to Taos."</p>
 		        		</div>
 		    		</div>
@@ -133,7 +142,7 @@
 		          			<img src="images/feature_pnmentrp.jpg" class="cardPic">
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal4"><i class="material-icons">search</i></a>
 		        		</div>
-		        		<div class="card-content">
+		        		<div class="card-content cardTextBox">
 		          			<p>"The Romeros have the gift of hospitality that allows them to serve their community in a manner that is uplifting to all those involved."</p>
 		        		</div>
 		      		</div>

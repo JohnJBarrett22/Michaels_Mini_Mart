@@ -27,9 +27,15 @@ document.addEventListener('DOMContentLoaded', function() {
 document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.modal');
     var instances = M.Modal.init(elems);
-  });
-  
-//Sticky navigation
+});
+
+//Side Nav
+document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.sidenav');
+    var instances = M.Sidenav.init(elems);
+});
+
+//Sticky Nav
 const carousel = document.querySelector("#mainCarousel")
 const nav = document.querySelector("#siteNav")
 const carouselOffset = carousel.offsetHeight;
