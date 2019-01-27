@@ -207,8 +207,8 @@
   		<div class="row">
 	  		<div class="col m1"></div>
 			<div class="col m10">
+				<h1>Locale</h1>
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3221.062459814842!2d-105.96971738472782!3d36.16503468008424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87182882e78ce007%3A0x6fb7c80896e47ace!2s1410+NM-68%2C+Velarde%2C+NM+87582!5e0!3m2!1sen!2sus!4v1548567644295" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-			  	<h1>More text</h1>
 		  	</div>
 		  	<div class="col m1"></div>
 	    </div>
@@ -222,8 +222,40 @@
   	  	<div class="row">
 	  		<div class="col m1"></div>
 			<div class="col m10">
-		  		<h1>More text</h1>
-			  	<h1>More text</h1>
+		  		<h1>Contact Us</h1>
+		  		
+				<div class="row">
+					<form class="col s12" action="https://formspree.io/johnjbarrett22@gmail.com" method="POST">
+				    	<div class="row">
+				        	<div class="input-field col s6">
+				          		<input id="first_name" type="text" name="First Name" class="validate">
+				          		<label for="first_name">First Name</label>
+				        	</div>
+				        	<div class="input-field col s6">
+				          		<input id="last_name" type="text" name="Last Name" class="validate">
+				          		<label for="last_name">Last Name</label>
+				        	</div>
+				      	</div>
+				      	<div class="row">
+				        	<div class="input-field col s6">
+				          		<input id="phone" type="text" name="Phone" class="validate">
+				          		<label for="phone">Phone</label>
+				        	</div>
+				        	<div class="input-field col s6">
+				          		<input id="email" type="email" name="Email" class="validate">
+				          		<label for="email">Email</label>
+				        	</div>
+				      	</div>
+					  	<div class="row">
+					    	<div class="input-field col s12">
+					          	<textarea id="comments" name="Comments" class="materialize-textarea"></textarea>
+					          	<label for="comments">Comments</label>
+					        </div>
+					  	</div>
+					  	<button class="btn waves-effect waves-light red darken-1" type="submit" name="action">Submit<i class="material-icons right">send</i></button>
+					</form>
+				</div>
+		  		
 		  	</div>
 		  	<div class="col m1"></div>
 	    </div>
