@@ -8,6 +8,9 @@
 html {
 	scroll-behavior: smooth;
 }
+p {
+	margin-top: 1rem;
+}
 .logo {
 	text-align: center;
 	margin: 1rem;
@@ -21,6 +24,12 @@ html {
 }
 .icon {
 	margin: 0 .75rem;
+}
+.noMargin {
+	margin: 0;
+}
+.addBold {
+	font-weight: bold;
 }
 
 /* Center Nav */
