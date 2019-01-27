@@ -40,6 +40,7 @@ const carousel = document.querySelector("#mainCarousel")
 const nav = document.querySelector("#siteNav")
 const carouselOffset = carousel.offsetHeight;
 var navOffset = nav.offsetTop;
+//console.log("navOffset: ", navOffset);
 
 document.addEventListener('DOMContentLoaded', function(){ 
 	navOffset = nav.offsetTop;

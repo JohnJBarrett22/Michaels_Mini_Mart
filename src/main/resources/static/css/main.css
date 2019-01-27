@@ -76,6 +76,9 @@ a.miniLogo {
 	text-align: right;
 	font-style: italic;
 }
+.legalText {
+	color: black;
+}
 .modalTitle {
 	color: #E53935;
 }
