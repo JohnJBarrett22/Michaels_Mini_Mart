@@ -207,7 +207,7 @@
   		<div class="row">
 	  		<div class="col m1"></div>
 			<div class="col m10">
-		  		<h1>More text</h1>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3221.062459814842!2d-105.96971738472782!3d36.16503468008424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87182882e78ce007%3A0x6fb7c80896e47ace!2s1410+NM-68%2C+Velarde%2C+NM+87582!5e0!3m2!1sen!2sus!4v1548567644295" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 			  	<h1>More text</h1>
 		  	</div>
 		  	<div class="col m1"></div>
@@ -285,7 +285,7 @@
 	      			<p class="addBold">How to Contact Us</p>
 	      			<p class="noMargin">If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.</p>
 	      			<p><span class="addBold">Email:</span> michaels.minimart@gmail.com</p>
-	      			<p><span class="addBold">Telephone Number:</span> 505-852-4769</p>
+	      			<p><span class="addBold">Telephone Number:</span>505-852-4769</p>
 	      			<p><span class="addBold">Mailing Address:</span></p>
 	    		</div>
 	    		<div class="modal-footer">
