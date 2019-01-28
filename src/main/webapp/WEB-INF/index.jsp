@@ -80,7 +80,7 @@
 				<h1>Favorites by Alice</h1>
 	  			<div class="row">
 	  				<div class="col m6">
-						<div class="carousel">
+						<div class="carousel carouselSlim">
 					    	<a class="carousel-item" href="#one!"><img src="images/food_tacos.jpg" class="miniCarousel"></a>
 					    	<a class="carousel-item" href="#two!"><img src="images/food_pizza.jpg" class="miniCarousel"></a>
 					    	<a class="carousel-item" href="#three!"><img src="images/food_taquitos.jpg" class="miniCarousel"></a>
@@ -104,7 +104,7 @@
   		</div>
 	    
 	   	<div class="parallax-container">
-	    	<div class="parallax"><img src="images/retail_fixture.jpg"></div>
+	    	<div class="parallax"><img src="images/retail_counter.jpg"></div>
 	    </div>
 	    
   	</section>
