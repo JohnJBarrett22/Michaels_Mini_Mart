@@ -36,11 +36,12 @@ p {
 	wdith: 100%;
 }
 .menuPic {
-	max-height: 475px;
+	max-height: 487px;
 }
 .dlLink {
+	color: #E53935;
 	text-align: center;
-	color: #E53935
+	margin: 0 auto;
 }
 
 /* Center Nav */
