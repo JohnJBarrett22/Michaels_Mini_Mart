@@ -80,6 +80,8 @@
 				<h1>Favorites by Alice</h1>
 	  			<div class="row">
 	  				<div class="col m6">
+	  					<p class="marginBottom">“Favorites by Alice” refers to the great recipes that were crowd favorites at Mike’s Place, the Romero's restaurant in the neighboring city of Española. Alice has turned on the stove again at Michael's Mini-Mart to offer a wide variety of fresh-hot food during the morning, day, and evening for breakfast, lunch, dinner, snacks, or comfort food! Included are traditional stand-by's and spicy local favorites.</p>
+						<br>
 						<div class="carousel carouselSlim">
 					    	<a class="carousel-item" href="#one!"><img src="images/food_tacos.jpg" class="miniCarousel"></a>
 					    	<a class="carousel-item" href="#two!"><img src="images/food_pizza.jpg" class="miniCarousel"></a>
@@ -87,15 +89,15 @@
 					    	<a class="carousel-item" href="#four!"><img src="images/food_beer.jpg" class="miniCarousel"></a>
 					    	<a class="carousel-item" href="#five!"><img src="images/food_tacos.jpg" class="miniCarousel"></a>
 					  	</div>
-				  		<p>“Favorites by Alice” refers to the great recipes that were crowd favorites at Mike’s Place, the Romero's restaurant in the neighboring city of Española. Alice has turned on the stove again at Michael's Mini-Mart to offer a wide variety of fresh-hot food during the morning, day, and evening for breakfast, lunch, dinner, snacks, or comfort food! Included are traditional stand-by's and spicy local favorites.</p>
 				  	</div>
 			  		<div class="col m6">
 			  			<div class="row">
-				  			<div class="col m3"></div>
-				  			<div class="col m6">
-				  				<img src="images/demo_menu.jpg" class="menuPic">
+				  			<div class="col m2"></div>
+				  			<div class="col m8">
+				  				<img src="images/demo_menu.jpg" class="center-align menuPic">
+				  				<a href="images/demo_menu.jpg" download class="dlLink">Download Menu</a>
 				  			</div>
-				  			<div class="col m3"></div>
+				  			<div class="col m2"></div>
 				  		</div>
 			  		</div>
 				 </div>

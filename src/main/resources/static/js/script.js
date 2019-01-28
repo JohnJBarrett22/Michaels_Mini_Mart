@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', function() {
 	var elems = document.querySelectorAll('.carousel');
     var options = {
-    	fullWidth: true,
+    	fullWidth: true
     }
     var instances = M.Carousel.init(elems, options);
 });
@@ -10,6 +10,8 @@ document.addEventListener('DOMContentLoaded', function() {
 document.addEventListener('DOMContentLoaded', function() {
 	var elems = document.querySelectorAll('.carouselSlim');
     var options = {
+    	shift: 0,
+    	padding: 0
     }
     var instances = M.Carousel.init(elems, options);
 });
