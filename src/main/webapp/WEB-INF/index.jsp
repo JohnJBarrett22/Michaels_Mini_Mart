@@ -94,8 +94,8 @@
 			  			<div class="row">
 				  			<div class="col m2"></div>
 				  			<div class="col m8">
-				  				<img src="images/demo_menu.jpg" class="menuPic">
-				  				<a href="images/demo_menu.jpg" download class="dlLink center-align">Download Menu</a>
+				  				<img src="images/demo_menu.jpg" class="materialboxed menuPic">
+				  				<a href="images/demo_menu.jpg" class="dlLink center-align" download>Download Menu</a>
 				  			</div>
 				  			<div class="col m2"></div>
 				  		</div>
@@ -118,7 +118,7 @@
 			<div class="col m10">
 			 	<h1>Media & Awards</h1>
 		    	<div class="col s12 m6 l3 cardSlide">
-		      		<div class="card">
+		      		<div class="card hoverable">
 		        		<div class="card-image">
 		          			<img src="images/feature_green_chili_trail.jpg" class="cardPic">
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal1"><i class="material-icons">search</i></a>
@@ -130,7 +130,7 @@
 		    	</div>
 		    
 		   		<div class="col s12 m6 l3 cardSlide">
-		      		<div class="card">
+		      		<div class="card hoverable">
 		        		<div class="card-image">
 		          			<img src="images/feature_saveur.jpg" class="cardPic">
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal2"><i class="material-icons">search</i></a>
@@ -142,7 +142,7 @@
 		    	</div>
 		    
 		    	<div class="col s12 m6 l3 cardSlide">
-		      		<div class="card">
+		      		<div class="card hoverable">
 		        		<div class="card-image">
 		        			<img src="images/feature_magazine.jpg" class="cardPic">
 		        			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal3"><i class="material-icons">search</i></a>
@@ -154,7 +154,7 @@
 		    	</div>
 		    
 		    	<div class="col s12 m6 l3 cardSlide">
-		    		<div class="card">
+		    		<div class="card hoverable">
 		        		<div class="card-image">
 		          			<img src="images/feature_pnmentrp.jpg" class="cardPic">
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal4"><i class="material-icons">search</i></a>
@@ -226,7 +226,7 @@
 	  		<div class="col m1"></div>
 			<div class="col m10">
 				<h1>Locale</h1>
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3221.062459814842!2d-105.96971738472782!3d36.16503468008424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87182882e78ce007%3A0x6fb7c80896e47ace!2s1410+NM-68%2C+Velarde%2C+NM+87582!5e0!3m2!1sen!2sus!4v1548567644295" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+				<iframe class="hoverable" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3221.062459814842!2d-105.96971738472782!3d36.16503468008424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87182882e78ce007%3A0x6fb7c80896e47ace!2s1410+NM-68%2C+Velarde%2C+NM+87582!5e0!3m2!1sen!2sus!4v1548567644295" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 		  	</div>
 		  	<div class="col m1"></div>
 	    </div>
