@@ -104,7 +104,7 @@
   		</div>
 	    
 	   	<div class="parallax-container">
-	    	<div class="parallax"><img src="images/retail_counter.jpg"></div>
+	    	<div class="parallax"><img src="images/retail_community.jpg"></div>
 	    </div>
 	    
   	</section>
