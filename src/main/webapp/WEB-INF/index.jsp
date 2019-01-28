@@ -78,19 +78,35 @@
 			<div class="col m1"></div>
 			<div class="col m10">
 				<h1>Favorites by Alice</h1>
-	  			<p>“Favorites by Alice” refers to the great recipes that were crowd favorites at Mike’s Place, the Romero's restaurant in the neighboring city of Española. Alice has turned on the stove again at Michael's Mini-Mart to offer a wide variety of fresh-hot food during the morning, day, and evening for breakfast, lunch, dinner, snacks, or comfort food! Included are traditional stand-by's and spicy local favorites.</p>
-	  			<h1>More text</h1>
-	  			<h1>More text</h1>
+	  			<div class="row">
+	  				<div class="col m6">
+						<div class="carousel">
+					    	<a class="carousel-item" href="#one!"><img src="images/food_tacos.jpg" class="miniCarousel"></a>
+					    	<a class="carousel-item" href="#two!"><img src="images/food_pizza.jpg" class="miniCarousel"></a>
+					    	<a class="carousel-item" href="#three!"><img src="images/food_taquitos.jpg" class="miniCarousel"></a>
+					    	<a class="carousel-item" href="#four!"><img src="images/food_beer.jpg" class="miniCarousel"></a>
+					    	<a class="carousel-item" href="#five!"><img src="images/food_tacos.jpg" class="miniCarousel"></a>
+					  	</div>
+				  		<p>“Favorites by Alice” refers to the great recipes that were crowd favorites at Mike’s Place, the Romero's restaurant in the neighboring city of Española. Alice has turned on the stove again at Michael's Mini-Mart to offer a wide variety of fresh-hot food during the morning, day, and evening for breakfast, lunch, dinner, snacks, or comfort food! Included are traditional stand-by's and spicy local favorites.</p>
+				  	</div>
+			  		<div class="col m6">
+			  			<div class="row">
+				  			<div class="col m3"></div>
+				  			<div class="col m6">
+				  				<img src="images/demo_menu.jpg" class="menuPic">
+				  			</div>
+				  			<div class="col m3"></div>
+				  		</div>
+			  		</div>
+				 </div>
 	  		</div>
 	  		<div class="col m1"></div>
   		</div>
-  	  	
-	 	<div class="carousel carousel-slider carouselSlim">
-	    	<a class="carousel-item" href="#one!"><img src="images/food_tacos.jpg"></a>
-	    	<a class="carousel-item" href="#two!"><img src="images/food_pizza.jpg"></a>
-	    	<a class="carousel-item" href="#three!"><img src="images/food_taquitos.jpg"></a>
-	    	<a class="carousel-item" href="#four!"><img src="images/food_beer.jpg"></a>
+	    
+	   	<div class="parallax-container">
+	    	<div class="parallax"><img src="images/retail_fixture.jpg"></div>
 	    </div>
+	    
   	</section>
   	
   	<!-- Media & Awards -->
