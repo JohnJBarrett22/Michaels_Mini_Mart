@@ -44,7 +44,15 @@ p {
 	margin: 0 auto;
 }
 .featurePic {
-	height: 100%;
+	max-height: 100%;
+}
+.galleryColumn {
+	display: inline-block;
+	vertical-align: top;
+}
+.foodGallery {
+	width: 145px;
+	margin: 0 .5rem 1rem .5rem;
 }
 
 /* Center Nav */

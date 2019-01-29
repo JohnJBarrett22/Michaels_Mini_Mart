@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
-<%@ taglib prefix = "fmt" uri = "http://java.sun.com/jsp/jstl/fmt" %>
+<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ page isErrorPage="true" %>    
 <!DOCTYPE html>
@@ -226,12 +226,30 @@
 	  		<div class="col m1"></div>
 			<div class="col m10">
 				<h1>Locale</h1>
-				<iframe class="hoverable" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3221.062459814842!2d-105.96971738472782!3d36.16503468008424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87182882e78ce007%3A0x6fb7c80896e47ace!2s1410+NM-68%2C+Velarde%2C+NM+87582!5e0!3m2!1sen!2sus!4v1548567644295" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+				<div class="row">
+					<div class="col m6">
+						<iframe class="hoverable" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3221.062459814842!2d-105.96971738472782!3d36.16503468008424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87182882e78ce007%3A0x6fb7c80896e47ace!2s1410+NM-68%2C+Velarde%2C+NM+87582!5e0!3m2!1sen!2sus!4v1548567644295" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+		  			</div>
+		  			<div class="col m6">
+		  				<div class="galleryColumn">
+			  				<img class="materialboxed foodGallery" src="images/food_pizza.jpg">
+			  				<img class="materialboxed foodGallery" src="images/food_tacos.jpg">
+			  				<img class="materialboxed foodGallery" src="images/food_beer.jpg">
+			  				<img class="materialboxed foodGallery" src="images/food_taquitos.jpg">
+		  				</div>
+		  				<div class="galleryColumn">
+			  				<img class="materialboxed foodGallery" src="images/food_pizza.jpg">
+			  				<img class="materialboxed foodGallery" src="images/food_tacos.jpg">
+			  				<img class="materialboxed foodGallery" src="images/food_beer.jpg">
+			  				<img class="materialboxed foodGallery" src="images/food_taquitos.jpg">
+		  				</div>
+		  			</div>
+		  		</div>
 		  	</div>
 		  	<div class="col m1"></div>
 	    </div>
 	   	<div class="parallax-container">
-			<div class="parallax"><img src="images/state_outdoor.jpg"></div>
+			<div class="parallax"><img src="images/retail_community.jpg"></div>
 		</div>
   	</section>
   	
