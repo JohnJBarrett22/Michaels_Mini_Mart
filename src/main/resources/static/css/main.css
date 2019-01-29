@@ -43,6 +43,9 @@ p {
 	text-align: center;
 	margin: 0 auto;
 }
+.featurePic {
+	height: 100%;
+}
 
 /* Center Nav */
 nav.nav-center ul {
@@ -91,8 +94,8 @@ a.miniLogo {
     max-height: 400px;   
 }
 .cardTextBox {
-	min-height: 125px;
-    max-height: 125px; 
+	min-height: 135px;
+    max-height: 135px; 
 }
 .reference {
 	text-align: right;

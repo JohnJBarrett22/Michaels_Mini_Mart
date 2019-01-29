@@ -22,9 +22,9 @@
 	<!-- Home -->
 	<section id="home">
 		<div class="carousel carousel-slider" id="mainCarousel">
-	    	<a class="carousel-item" href="#one!"><img src="images/front.jpg"></a>
-	    	<a class="carousel-item" href="#two!"><img src="images/retail_display.jpg"></a>
-	    	<a class="carousel-item" href="#three!"><img src="images/retail_eating.jpg"></a>
+	    	<a class="carousel-item featurePic" href="#one!"><img src="images/food_taquitos.jpg"></a>
+	    	<a class="carousel-item featurePic" href="#two!"><img src="images/food_pizza.jpg"></a>
+	    	<a class="carousel-item featurePic" href="#three!"><img src="images/food_tacos.jpg"></a>
 	    </div>
 	    
 	    <nav class="nav-center red darken-1" id="siteNav">
