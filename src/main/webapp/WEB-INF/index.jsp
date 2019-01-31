@@ -259,7 +259,7 @@
 	  		<div class="col m1"></div>
 			<div class="col m10">
 		  		<h1>Contact Us</h1>
-		  		
+		  		git sta
 				<div class="row">
 					<form class="col s12" action="https://formspree.io/johnjbarrett22@gmail.com" method="POST">
 				    	<div class="row">
