@@ -191,7 +191,7 @@
 				<div id="modal3" class="modal modal-fixed-footer">
 					<div class="modal-content">
 				    	<h4 class="modalTitle">Convenience Store News</h4>
-				      	<p></p>
+				      	<p>Alice and Michael Romero's market in Velarde, 30 miles north of Santa Fe, has served travelers and locals from the surrounding farming village for the past 18 years. But it is the store's Your Favorites by Alice restaurant that makees Michael's Mini-Mart a high-priority stop on the Low Road to Taos. In December, Alice sets our a free feast to honor Our Lady of Guadalupe, when folks come to fill up on posole - as well as the spirit of the season. </p>
 				    </div>
 				    <div class="modal-footer">
 				    	<a href="#!" class="modal-close waves-effect waves-red btn-flat">Close</a>
@@ -273,7 +273,6 @@
 	  		<div class="col m1"></div>
 			<div class="col m10">
 		  		<h1>Contact Us</h1>
-		  		git sta
 				<div class="row">
 					<form class="col s12" action="https://formspree.io/johnjbarrett22@gmail.com" method="POST">
 				    	<div class="row">
