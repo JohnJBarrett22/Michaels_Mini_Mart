@@ -61,8 +61,8 @@
 	  				<div class="col m1"></div>
 	  			</div>
 	  			<h2 class="ctr">Welcome to the biggest little store in New Mexico!</h2>
-	  			<p>Michael's Mini-Mart, Featuring Your Favorites by Alice is located on New Mexico Route 68 (the Taos Highway) in the Española Valley halfway between Santa Fe and Taos in beautiful Velarde. Mike's store has been in the Romero family for over 50 years and is your source for supplies ranging from groceries, snacks, drinks, beer, wine, and liquor and, of course, Alice's internationally famous food.</p>
-	  			<p>If you're headed to Taos on vacation any time of the year, Michael's is THE place to stop to gas up, get some food for the road, stock up on your party supplies, and to try some of Alice's fine recipes. It's the only convenience store in Velarde and the closest one for more than eleven miles.</p>
+	  			<p>Located in the heart of the land of enchantment, halfway between Santa Fe and Taos and along the Rio Grande, Michael's Mini-Mart is your source for delicious food, cold drinks, tasty snacks, and a wide selection of beer, wine, and liquor.</p>
+	  			<p>“Your Favorites by Alice” has a full menu of food items made from only the best and freshest ingredients. Whether you're dropping by for a quick meal, ordering for take-out, or would like to cater a meal or party for your friends or office, our team can fill the order with her original recipes and favorites. You can also grab an ice cold beer from our beer on tap and pair it with our delicious food.</p>
 	  		</div>
 	  		<div class="col m1"></div>
   		</div>
