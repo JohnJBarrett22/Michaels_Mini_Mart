@@ -115,7 +115,13 @@ nav.nav-center ul li a {
 .modalTitle {
 	color: #E53935;
 }
-
+.question {
+	font-weight: bold;
+}
+.response {
+	font-weight: bold;
+	color: #E53935;
+}
 /* Form */
 /* label color */
 .input-field label {
