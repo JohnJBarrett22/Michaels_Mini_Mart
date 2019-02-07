@@ -169,6 +169,8 @@
 					<div class="modal-content">
 				    	<h4 class="modalTitle">New Mexico Chili Cheeseburger Trail</h4>
 				      	<p>No state is more passionate about its burger than New Mexico. A juicy thick patty grilled over an open flame or sizzled on a griddle, then blanketed in molten Cheddar or other cheese, and topped off with enough New Mexican green chile to tingle the tastebuds—what could be more glorious? Michael's Mini-Mart has been honored by the state of New Mexico to be included on their Chili-Cheeseburger Trail map.</p>
+				    	<p>“November 2009 saw the introduction of the ‘New Mexico Green Chile Cheeseburger Trail’, a listing of the Land of Enchantment’s most outstanding green chile cheeseburger restaurants. The Trail became the indispensable guide to one of New Mexico’s most iconic foods. The New Mexico Green Chile Cheeseburger Trail was such a resounding success that it was brought back in 2011. Restaurant owners, staff and patrons nominated nearly 200 purveyors of New Mexico’s iconic green chile cheeseburger for inclusion on the updated Trail. The 30 restaurants receiving the most votes received an automatic berth on the Trail while a panel of culinary experts added additional choices to ensure recommendations are available to visitors in all corners of the Land of Enchantment. The updated New Mexico Green Chile Cheeseburger Trail celebrates 66 restaurants, drive-ins, diners, dives, joints, cafes, roadside stands and bowling alleys which serve the best green chile cheeseburgers in the universe. They come from tiny hamlets to burgeoning metropolises and from Abiquiu to Zuni and everywhere in between. One commonality among them all - aside from piquant deliciousness - is the exclusive use of green chile grown and roasted in the Land of Enchantment.”</p>
+				    	<p class="reference">--Introducing the New Mexico Green Chile Cheeseburger Trail for 2011. May 26, 2011</p>
 				    </div>
 				    <div class="modal-footer">
 				    	<a href="#!" class="modal-close waves-effect waves-red btn-flat">Close</a>
@@ -197,6 +199,7 @@
 				      	<p><span class="question">Michael's is a popular stop any time of the year. How did you end up in the convenience store business?</span> <span class="response">Michael:</span> My father, Canuto bought the small gas station here in 1960 and expanded it over the yers. He sold it to us in 1995. We thought the store would make it so we could relax and retire, but we've been busier than ever.</p>
 				      	<p><span class="question">What's on the restaurant's regular menu?</span> <span class="response">Alice:</span> Our most popular items are the pork taco plate and the taquitos, but the green chile cheeseburger, which we make with fresh beef, cheese, and Hatch chile, does really well. People often order the sweet potato fries with it.</p>
 				      	<p><span class="question">With the store's proximity to Santa Fe, do celebrities ever stop by?</span> <span class="response">Alice:</span> Johnny Depp came in when he was filming The Long Ranger a couple of summers ago, and we've had Dan Rather and other famous people stop in. Richard Berry, the mayor of Albuquerque, occasionally comes up for lunch--he always orders the chicharron burrito.<p>
+ 					    <p class="reference">--Steve Larse - Convenience Store News, Summer 2007</p>
 				    </div>
 				    <div class="modal-footer">
 				    	<a href="#!" class="modal-close waves-effect waves-red btn-flat">Close</a>
@@ -238,25 +241,25 @@
 		  			</div>
 		  			<div class="col m6">
 		  				<div class="row">
-			  				<div class="m2 galleryColumn">
+			  				<div class="m3 s12 galleryColumn">
 				  				<img class="materialboxed foodGallery" src="images/state_outdoor.jpg">
 				  				<img class="materialboxed foodGallery" src="images/food_tacos.jpg">
 				  				<img class="materialboxed foodGallery" src="images/food_beer.jpg">
 				  				<img class="materialboxed foodGallery" src="images/food_taquitos.jpg">
 			  				</div>
-			  				<div class="m2 galleryColumn">
+			  				<div class="m3 s12 galleryColumn">
 				  				<img class="materialboxed foodGallery" src="images/food_pizza.jpg">
 				  				<img class="materialboxed foodGallery" src="images/food_tacos.jpg">
 				  				<img class="materialboxed foodGallery" src="images/food_beer.jpg">
 				  				<img class="materialboxed foodGallery" src="images/food_taquitos.jpg">
 			  				</div>
-			  				<div class="m2 galleryColumn">
+			  				<div class="m3 s12 galleryColumn">
 				  				<img class="materialboxed foodGallery" src="images/food_pizza.jpg">
 				  				<img class="materialboxed foodGallery" src="images/food_tacos.jpg">
 				  				<img class="materialboxed foodGallery" src="images/food_beer.jpg">
 				  				<img class="materialboxed foodGallery" src="images/food_taquitos.jpg">
 			  				</div>
-			  				<div class="m2 galleryColumn">
+			  				<div class="m3 s12 galleryColumn">
 				  				<img class="materialboxed foodGallery" src="images/food_pizza.jpg">
 				  				<img class="materialboxed foodGallery" src="images/food_tacos.jpg">
 				  				<img class="materialboxed foodGallery" src="images/food_beer.jpg">
@@ -283,21 +286,21 @@
 					<form class="col s12" action="https://formspree.io/johnjbarrett22@gmail.com" method="POST">
 				    	<div class="row">
 				        	<div class="input-field col s6">
-				          		<input id="first_name" type="text" name="First Name" class="validate">
+				          		<input id="first_name" type="text" name="First Name">
 				          		<label for="first_name">First Name</label>
 				        	</div>
 				        	<div class="input-field col s6">
-				          		<input id="last_name" type="text" name="Last Name" class="validate">
+				          		<input id="last_name" type="text" name="Last Name">
 				          		<label for="last_name">Last Name</label>
 				        	</div>
 				      	</div>
 				      	<div class="row">
 				        	<div class="input-field col s6">
-				          		<input id="phone" type="text" name="Phone" class="validate">
+				          		<input id="phone" type="text" name="Phone">
 				          		<label for="phone">Phone</label>
 				        	</div>
 				        	<div class="input-field col s6">
-				          		<input id="email" type="email" name="Email" class="validate">
+				          		<input id="email" type="email" name="Email">
 				          		<label for="email">Email</label>
 				        	</div>
 				      	</div>
