@@ -86,8 +86,8 @@
 					    	<a class="carousel-item" href="#one!"><img src="images/food_tacos.jpg" class="miniCarousel"></a>
 					    	<a class="carousel-item" href="#two!"><img src="images/food_pizza.jpg" class="miniCarousel"></a>
 					    	<a class="carousel-item" href="#three!"><img src="images/food_taquitos.jpg" class="miniCarousel"></a>
-					    	<a class="carousel-item" href="#four!"><img src="images/food_beer.jpg" class="miniCarousel"></a>
-					    	<a class="carousel-item" href="#five!"><img src="images/food_tacos.jpg" class="miniCarousel"></a>
+					    	<a class="carousel-item" href="#four!"><img src="images/food_burger.jpg" class="miniCarousel"></a>
+					    	<a class="carousel-item" href="#five!"><img src="images/food_beers.jpg" class="miniCarousel"></a>
 					  	</div>
 				  	</div>
 			  		<div class="col m6">
