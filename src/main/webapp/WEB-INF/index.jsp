@@ -272,7 +272,7 @@
 		  	<div class="col m1"></div>
 	    </div>
 	   	<div class="parallax-container">
-			<div class="parallax"><img src="images/retail_community.jpg"></div>
+			<div class="parallax"><img src="images/retail_beers.jpg"></div>
 		</div>
   	</section>
   	
