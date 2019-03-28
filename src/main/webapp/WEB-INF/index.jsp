@@ -29,7 +29,7 @@
 	    
 	    <nav class="nav-center red darken-1" id="siteNav">
 	    	<div class="nav-wrapper">
-	    	<a href="#home" class="brand-logo miniLogo">Logo</a>
+	    	<a href="#home" class="brand-logo miniLogo">Michael's Mini-Mart</a>
 	    	<a href="#" data-target="mobile-nav" class="sidenav-trigger"><i class="material-icons">menu</i></a>
 	      		<ul id="nav-mobile" class="center hide-on-med-and-down">
 	        		<li><a href="#about">About</a></li>
