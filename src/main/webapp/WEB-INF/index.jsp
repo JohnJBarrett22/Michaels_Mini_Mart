@@ -94,8 +94,8 @@
 			  			<div class="row">
 				  			<div class="col m2"></div>
 				  			<div class="col m8">
-				  				<img src="images/demo_menu.jpg" class="materialboxed menuPic">
-				  				<a href="images/demo_menu.jpg" class="dlLink center-align" download>Download Menu</a>
+				  				<img src="images/food_menu.png" class="materialboxed menuPic">
+				  				<a href="images/food_menu.png" class="dlLink center-align" download>Download Menu</a>
 				  			</div>
 				  			<div class="col m2"></div>
 				  		</div>
