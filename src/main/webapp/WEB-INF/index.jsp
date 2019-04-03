@@ -68,7 +68,7 @@
   		</div>
   	
 	  	<div class="parallax-container">
-	    	<div class="parallax"><img src="images/snow.jpg"></div>
+	    	<div class="parallax"><img src="images/exterior_front.jpg"></div>
 	    </div>
   	</section>
   	
