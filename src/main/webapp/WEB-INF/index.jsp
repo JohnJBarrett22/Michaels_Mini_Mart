@@ -240,32 +240,7 @@
 						<iframe class="hoverable" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3221.062459814842!2d-105.96971738472782!3d36.16503468008424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87182882e78ce007%3A0x6fb7c80896e47ace!2s1410+NM-68%2C+Velarde%2C+NM+87582!5e0!3m2!1sen!2sus!4v1548567644295" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
 		  			</div>
 		  			<div class="col m6">
-		  				<div class="row">
-			  				<div class="m3 s12 galleryColumn">
-				  				<img class="materialboxed foodGallery" src="images/state_outdoor.jpg">
-				  				<img class="materialboxed foodGallery" src="images/food_tacos.jpg">
-				  				<img class="materialboxed foodGallery" src="images/food_beer.jpg">
-				  				<img class="materialboxed foodGallery" src="images/food_taquitos.jpg">
-			  				</div>
-			  				<div class="m3 s12 galleryColumn">
-				  				<img class="materialboxed foodGallery" src="images/food_pizza.jpg">
-				  				<img class="materialboxed foodGallery" src="images/food_tacos.jpg">
-				  				<img class="materialboxed foodGallery" src="images/food_beer.jpg">
-				  				<img class="materialboxed foodGallery" src="images/food_taquitos.jpg">
-			  				</div>
-			  				<div class="m3 s12 galleryColumn">
-				  				<img class="materialboxed foodGallery" src="images/food_pizza.jpg">
-				  				<img class="materialboxed foodGallery" src="images/food_tacos.jpg">
-				  				<img class="materialboxed foodGallery" src="images/food_beer.jpg">
-				  				<img class="materialboxed foodGallery" src="images/food_taquitos.jpg">
-			  				</div>
-			  				<div class="m3 s12 galleryColumn">
-				  				<img class="materialboxed foodGallery" src="images/food_pizza.jpg">
-				  				<img class="materialboxed foodGallery" src="images/food_tacos.jpg">
-				  				<img class="materialboxed foodGallery" src="images/food_beer.jpg">
-				  				<img class="materialboxed foodGallery" src="images/food_taquitos.jpg">
-			  				</div>
-		  				</div>
+		  				<img class="nmtrue" src="images/feature_nmtrue.jpg">
 		  			</div>
 		  		</div>
 		  	</div>
