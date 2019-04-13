@@ -106,7 +106,7 @@
   		</div>
 	    
 	   	<div class="parallax-container">
-	    	<div class="parallax"><img src="images/retail_community.jpg"></div>
+	    	<div class="parallax"><img src="images/retail_taps.jpg"></div>
 	    </div>
 	    
   	</section>
@@ -224,7 +224,7 @@
 	    </div>
 	  	
 		<div class="parallax-container">
-	    	<div class="parallax"><img src="images/retail_cooler.jpg"></div>
+	    	<div class="parallax"><img src="images/retail_snacks.jpg"></div>
 	    </div>
     </section>
   	
@@ -278,45 +278,7 @@
   	
   	<!-- Contact Us -->  	
   	<section id="contact-us">
-  	  	<div class="row">
-	  		<div class="col m1"></div>
-			<div class="col m10">
-		  		<h1>Contact Us</h1>
-				<div class="row">
-					<form class="col s12" action="https://formspree.io/johnjbarrett22@gmail.com" method="POST">
-				    	<div class="row">
-				        	<div class="input-field col s6">
-				          		<input id="first_name" type="text" name="First Name">
-				          		<label for="first_name">First Name</label>
-				        	</div>
-				        	<div class="input-field col s6">
-				          		<input id="last_name" type="text" name="Last Name">
-				          		<label for="last_name">Last Name</label>
-				        	</div>
-				      	</div>
-				      	<div class="row">
-				        	<div class="input-field col s6">
-				          		<input id="phone" type="text" name="Phone">
-				          		<label for="phone">Phone</label>
-				        	</div>
-				        	<div class="input-field col s6">
-				          		<input id="email" type="email" name="Email">
-				          		<label for="email">Email</label>
-				        	</div>
-				      	</div>
-					  	<div class="row">
-					    	<div class="input-field col s12">
-					          	<textarea id="comments" name="Comments" class="materialize-textarea"></textarea>
-					          	<label for="comments">Comments</label>
-					        </div>
-					  	</div>
-					  	<button class="btn waves-effect waves-light red darken-1" type="submit" name="action">Submit<i class="material-icons right">send</i></button>
-					</form>
-				</div>
-		  		
-		  	</div>
-		  	<div class="col m1"></div>
-	    </div>
+
 	    <footer class="page-footer red darken-1">
 	    	<div class="container">
 	        	<div class="row">
