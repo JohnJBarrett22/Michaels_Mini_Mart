@@ -59,6 +59,12 @@ p {
 	width: 151px;
 	margin: 0 .5rem 1rem .5rem;
 }
+.map {
+	width: 100%;
+}
+.nmtrue {
+	width: 100%;
+}
 
 /* Center Nav */
 nav.nav-center ul {
@@ -144,7 +150,3 @@ nav.nav-center ul li a {
 }
 
 /* Temp */
-
-.nmtrue {
-	width: 100%;
-}
