@@ -57,7 +57,7 @@
 			<div class="col m10">
 				<div class="row">
 					<div class="col m1"></div>
-	  				<img class="col m10 logo" src="images/mmm_logo.jpg">
+	  				<div class="col m10"><img class="logo" src="images/mmm_logo.jpg"></div>
 	  				<div class="col m1"></div>
 	  			</div>
 	  			<h2 class="ctr">Welcome to the biggest little store in New Mexico!</h2>
@@ -236,7 +236,7 @@
 				<h1>Locale</h1>
 				<p>Located on NM Highway 68 between Santa Fe and Taos, the village of Velarde is within an hour's drive of internationally famous resorts, landmarks, and cultural communities of Taos, Espanola, Santa Fe, Abiquiu, Ghost Ranch, Ojo Caliente, Los Alamos, the Jemez Mountains, the Rio Grande Gorge, Chimayo, and many of the northern Pueblo Indian Villages. Michael's Mini-Mart is only a few short hours driving from Angel Fire, Roswell, Albuquerque, and the Colorado border. It turns out that Michael's Mini-Mart is at the center of many of the activities that locals and visitors alike love when they think of the things that make New Mexico the Land of Enchantment!</p>
 				<div class="row">
-					<div class="col m6 test">
+					<div class="col m6">
 						<iframe class="hoverable" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3221.062459814842!2d-105.96971738472782!3d36.16503468008424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87182882e78ce007%3A0x6fb7c80896e47ace!2s1410+NM-68%2C+Velarde%2C+NM+87582!5e0!3m2!1sen!2sus!4v1548567644295" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
 		  			</div>
 		  			<div class="col m6">
@@ -253,7 +253,45 @@
   	
   	<!-- Contact Us -->  	
   	<section id="contact-us">
+  	  	<div class="row">
+	  		<div class="col m1"></div>
+			<div class="col m10">
+		  		<h1>Contact Us</h1>
+				<div class="row">
+					<form class="col s12" action="https://formspree.io/johnjbarrett22@gmail.com" method="POST">
+				    	<div class="row">
+				        	<div class="input-field col s6">
+				          		<input id="first_name" type="text" name="First Name">
+				          		<label for="first_name">First Name</label>
+				        	</div>
+				        	<div class="input-field col s6">
+				          		<input id="last_name" type="text" name="Last Name">
+				          		<label for="last_name">Last Name</label>
+				        	</div>
+				      	</div>
+				      	<div class="row">
+				        	<div class="input-field col s6">
+				          		<input id="phone" type="text" name="Phone">
+				          		<label for="phone">Phone</label>
+				        	</div>
+				        	<div class="input-field col s6">
+				          		<input id="email" type="email" name="Email">
+				          		<label for="email">Email</label>
+				        	</div>
+				      	</div>
+					  	<div class="row">
+					    	<div class="input-field col s12">
+					          	<textarea id="comments" name="Comments" class="materialize-textarea"></textarea>
+					          	<label for="comments">Comments</label>
+					        </div>
+					  	</div>
+					  	<button class="btn waves-effect waves-light red darken-1" type="submit" name="action">Submit<i class="material-icons right">send</i></button>
+					</form>
+				</div>
 
+		  	</div>
+		  	<div class="col m1"></div>
+	    </div>
 	    <footer class="page-footer red darken-1">
 	    	<div class="container">
 	        	<div class="row">

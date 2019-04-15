@@ -10,11 +10,13 @@ html {
 }
 p {
 	margin-top: 1rem;
+	margin-bottom: 1rem;
 }
 .logo {
 	text-align: center;
 	margin: 1rem;
 	margin-top: 3rem;
+	max-width: 100%;
 }
 .ctr {
 	text-align: center;
@@ -142,10 +144,7 @@ nav.nav-center ul li a {
 }
 
 /* Temp */
-.test {
-	border: 1px solid blue;
-	height: 100%;
-}
+
 .nmtrue {
-	width: 100%;;
+	width: 100%;
 }
