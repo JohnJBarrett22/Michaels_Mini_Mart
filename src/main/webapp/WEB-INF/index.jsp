@@ -79,7 +79,7 @@
 			<div class="col m10">
 				<h1>Favorites by Alice</h1>
 	  			<div class="row">
-	  				<div class="col m6">
+	  				<div class="col m6 test">
 	  					<p class="marginBottom">“Favorites by Alice” refers to the great recipes that were crowd favorites at Mike’s Place, the Romero's restaurant in the neighboring city of Española. Alice has turned on the stove again at Michael's Mini-Mart to offer a wide variety of fresh-hot food during the morning, day, and evening for breakfast, lunch, dinner, snacks, or comfort food! Included are traditional stand-by's and spicy local favorites.</p>
 						<br>
 						<div class="carousel carouselSlim">
@@ -90,14 +90,10 @@
 					    	<a class="carousel-item" href="#five!"><img src="images/food_beers.jpg" class="miniCarousel"></a>
 					  	</div>
 				  	</div>
-			  		<div class="col m6">
+			  		<div class="col m6 test">
 			  			<div class="row">
-				  			<div class="col m2"></div>
-				  			<div class="col m8">
-				  				<img src="images/food_menu.png" class="materialboxed menuPic">
-				  				<a href="images/food_menu.png" class="dlLink center-align" download>Download Menu</a>
-				  			</div>
-				  			<div class="col m2"></div>
+			  				<img src="images/food_menu.png" class="materialboxed menuPic">
+			  				<a href="images/food_menu.png" class="dlLink center-align" download>Download Menu</a>
 				  		</div>
 			  		</div>
 				 </div>
