@@ -11,7 +11,8 @@ document.addEventListener('DOMContentLoaded', function() {
 	var elems = document.querySelectorAll('.carouselSlim');
     var options = {
     	shift: 0,
-    	padding: 0
+    	numVisible: 0,
+    	duration: 1000
     }
     var instances = M.Carousel.init(elems, options);
 });
