@@ -47,7 +47,7 @@ p {
 .dlLink {
 	color: #E53935;
 	text-align: center;
-	margin: 0 auto;
+	margin: 1rem auto;
 }
 .featurePic {
 	max-height: 100%;

@@ -91,10 +91,8 @@
 					  	</div>
 				  	</div>
 			  		<div class="col m6 test">
-			  			<div class="row">
-			  				<img src="images/food_menu.png" class="materialboxed menuPic">
-			  				<a href="images/food_menu.png" class="dlLink center-align" download>Download Menu</a>
-				  		</div>
+		  				<img src="images/food_menu.png" class="materialboxed menuPic">
+		  				<a href="images/food_menu.png" class="dlLink" download>Download Menu <i class="fas fa-download"></i></a>
 			  		</div>
 				 </div>
 	  		</div>
