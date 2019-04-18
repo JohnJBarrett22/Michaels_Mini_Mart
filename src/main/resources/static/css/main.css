@@ -72,6 +72,10 @@ p {
 }
 .nmtrue {
 	width: 100%;
+	margin-bottom: 1rem;
+}
+.scenery {
+	margin: 1rem 0;
 }
 
 /* Center Nav */

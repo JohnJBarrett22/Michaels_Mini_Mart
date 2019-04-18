@@ -234,9 +234,14 @@
 					<div class="col s12 m6 addMargin">
 						<iframe class="map responsive-img" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12884.24978667443!2d-105.967529!3d36.165035!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87182882e78ce007%3A0x6fb7c80896e47ace!2s1410+NM-68%2C+Velarde%2C+NM+87582!5e0!3m2!1sen!2sus!4v1555357823047!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 		  			</div>
-		  			<div class="col s12 m6">
-		  				
+		  			<div class="col s12 m6 ctr">
 		  				<a class="grey-text text-lighten-4 right" href="https://www.newmexico.org/events/#events" target="_blank"><img class="nmtrue" src="images/feature_nmtrue.jpg"></a>
+		  				<a href="https://www.newmexico.org/events/#events" class="dlLink">Visit <span class="addBold">New Mexico True's</span> event calander! <i class="far fa-calendar-alt"></i></a>
+	  				  	<div class="row">
+	  				  		<img class="materialboxed col s12 m6 l4 noMargin scenery" data-caption="Enjoying a sunset, the New Mexico way." width="230" src="images/state_sunset.jpg">
+		  					<img class="materialboxed col s12 m6 l4 noMargin scenery" data-caption="Gila River" width="230" src="images/state_river.jpg">
+		  					<img class="materialboxed col s12 m6 l4 noMargin scenery" data-caption="Skiing in the New Mexico snow." width="230" src="images/state_snow.jpg">
+	  					</div>	
 		  			</div>
 		  		</div>
 		  	</div>
