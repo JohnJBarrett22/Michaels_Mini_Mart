@@ -30,8 +30,16 @@ p {
 .noMargin {
 	margin: 0;
 }
+.addMargin {
+	margin-bottom: 1rem;
+}
 .addBold {
 	font-weight: bold;
+}
+.carouselSlim {
+	padding: 0;
+	margin: 0;
+	height: 250px;
 }
 .miniCarousel {
 	height: 100%;
@@ -152,12 +160,4 @@ nav.nav-center ul li a {
 /* Temp */
 .test {
 	border: 1px solid blue;
-}
-.righty {
-	text-align: center;
-}
-.carouselSlim {
-	padding: 0;
-	margin: 0;
-	height: 250px;
 }

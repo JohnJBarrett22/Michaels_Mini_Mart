@@ -88,9 +88,10 @@
 					    	<a class="carousel-item" href="#three!"><img src="images/food_taquitos.jpg" class="miniCarousel"></a>
 					    	<a class="carousel-item" href="#four!"><img src="images/food_burger.jpg" class="miniCarousel"></a>
 					    	<a class="carousel-item" href="#five!"><img src="images/food_beers.jpg" class="miniCarousel"></a>
+					    	<a class="carousel-item" href="#six!"><img src="images/food_breakfast_burrito.jpg" class="miniCarousel"></a>
 					  	</div>
 				  	</div>
-			  		<div class="col s12 m6 righty">
+			  		<div class="col s12 m6 ctr">
 		  				<img src="images/food_menu.png" class="materialboxed menuPic">
 		  				<a href="images/food_menu.png" class="dlLink" download>Download Menu <i class="fas fa-download"></i></a>
 			  		</div>
@@ -230,7 +231,7 @@
 				<h1>Locale</h1>
 				<p>Located on NM Highway 68 between Santa Fe and Taos, the village of Velarde is within an hour's drive of internationally famous resorts, landmarks, and cultural communities of Taos, Espanola, Santa Fe, Abiquiu, Ghost Ranch, Ojo Caliente, Los Alamos, the Jemez Mountains, the Rio Grande Gorge, Chimayo, and many of the northern Pueblo Indian Villages. Michael's Mini-Mart is only a few short hours driving from Angel Fire, Roswell, Albuquerque, and the Colorado border. It turns out that Michael's Mini-Mart is at the center of many of the activities that locals and visitors alike love when they think of the things that make New Mexico the Land of Enchantment!</p>
 				<div class="row">
-					<div class="col s12 m6">
+					<div class="col s12 m6 addMargin">
 						<iframe class="map responsive-img" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12884.24978667443!2d-105.967529!3d36.165035!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87182882e78ce007%3A0x6fb7c80896e47ace!2s1410+NM-68%2C+Velarde%2C+NM+87582!5e0!3m2!1sen!2sus!4v1555357823047!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 		  			</div>
 		  			<div class="col s12 m6">
