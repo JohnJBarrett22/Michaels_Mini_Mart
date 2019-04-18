@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
 document.addEventListener('DOMContentLoaded', function() {
 	var elems = document.querySelectorAll('.carouselSlim');
     var options = {
-    	shift: -60,
+    	shift: 0,
     	numVisible: 0,
     	duration: 10000
     }
@@ -107,7 +107,6 @@ window.addEventListener("scroll", debounce(checkSlide));
 //jQuery
 $(document).ready(function(){
 	$('.carousel').carousel({
-	    padding: 200    
 	});
 	setTimeout(autoplay, 4500);
 	function autoplay() {

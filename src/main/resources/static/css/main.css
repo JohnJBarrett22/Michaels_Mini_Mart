@@ -77,6 +77,16 @@ p {
 .scenery {
 	margin: 1rem 0;
 }
+.overlay {
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 90%;
+    z-index: 10000;
+}
 
 /* Center Nav */
 nav.nav-center ul {
