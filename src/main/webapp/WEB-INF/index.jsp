@@ -79,7 +79,7 @@
 			<div class="col m10">
 				<h1>Favorites by Alice</h1>
 	  			<div class="row">
-	  				<div class="col m6 test">
+	  				<div class="col s12 m6">
 	  					<p class="marginBottom">“Favorites by Alice” refers to the great recipes that were crowd favorites at Mike’s Place, the Romero's restaurant in the neighboring city of Española. Alice has turned on the stove again at Michael's Mini-Mart to offer a wide variety of fresh-hot food during the morning, day, and evening for breakfast, lunch, dinner, snacks, or comfort food! Included are traditional stand-by's and spicy local favorites.</p>
 						<br>
 						<div class="carousel carouselSlim">
@@ -90,7 +90,7 @@
 					    	<a class="carousel-item" href="#five!"><img src="images/food_beers.jpg" class="miniCarousel"></a>
 					  	</div>
 				  	</div>
-			  		<div class="col m6 test">
+			  		<div class="col s12 m6 righty">
 		  				<img src="images/food_menu.png" class="materialboxed menuPic">
 		  				<a href="images/food_menu.png" class="dlLink" download>Download Menu <i class="fas fa-download"></i></a>
 			  		</div>
@@ -230,10 +230,10 @@
 				<h1>Locale</h1>
 				<p>Located on NM Highway 68 between Santa Fe and Taos, the village of Velarde is within an hour's drive of internationally famous resorts, landmarks, and cultural communities of Taos, Espanola, Santa Fe, Abiquiu, Ghost Ranch, Ojo Caliente, Los Alamos, the Jemez Mountains, the Rio Grande Gorge, Chimayo, and many of the northern Pueblo Indian Villages. Michael's Mini-Mart is only a few short hours driving from Angel Fire, Roswell, Albuquerque, and the Colorado border. It turns out that Michael's Mini-Mart is at the center of many of the activities that locals and visitors alike love when they think of the things that make New Mexico the Land of Enchantment!</p>
 				<div class="row">
-					<div class="col s12 m6 test">
+					<div class="col s12 m6">
 						<iframe class="map responsive-img" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12884.24978667443!2d-105.967529!3d36.165035!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87182882e78ce007%3A0x6fb7c80896e47ace!2s1410+NM-68%2C+Velarde%2C+NM+87582!5e0!3m2!1sen!2sus!4v1555357823047!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 		  			</div>
-		  			<div class="col s12 m6 test">
+		  			<div class="col s12 m6">
 		  				<img class="nmtrue" src="images/feature_nmtrue.jpg">
 		  			</div>
 		  		</div>

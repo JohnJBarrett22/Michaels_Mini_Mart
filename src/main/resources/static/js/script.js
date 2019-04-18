@@ -10,9 +10,9 @@ document.addEventListener('DOMContentLoaded', function() {
 document.addEventListener('DOMContentLoaded', function() {
 	var elems = document.querySelectorAll('.carouselSlim');
     var options = {
-    	shift: 0,
+    	shift: -60,
     	numVisible: 0,
-    	duration: 1000
+    	duration: 10000
     }
     var instances = M.Carousel.init(elems, options);
 });
