@@ -92,10 +92,6 @@
 					    	<a class="carousel-item" href="#five!"><img src="images/food_beers.jpg" class="miniCarousel"></a>
 					    	<a class="carousel-item" href="#six!"><img src="images/food_breakfast_burrito.jpg" class="miniCarousel"></a>
 					  	</div>
-					  	<div>
-					  		<h6 class="dlLink addBold">Deli Hours</h6>
-					  		<p class="ctr">Mon: 7:00AM - 6:30PM <span class="response">|</span> Tue-Thur: 7:00AM - 8:00PM <span class="response">|</span> Fri-Sat: 7:00AM - 8:30PM <span class="response">|</span> Sun: 7:00AM - 8:00PM</p>
-					  	</div>
 				  	</div>
 			  		<div class="col s12 m6 ctr">
 		  				<img src="images/food_menu.png" class="materialboxed menuPic">
@@ -109,7 +105,6 @@
 	   	<div class="parallax-container">
 	    	<div class="parallax"><img src="images/retail_taps.jpg"></div>
 	    </div>
-	    
   	</section>
   	
   	<!-- Media & Awards -->
