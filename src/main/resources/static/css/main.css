@@ -44,6 +44,7 @@ p {
 .miniCarousel {
 	height: 100%;
 	width: 100%;
+	margin-bottom: 2rem;
 }
 .menuPic {
 	-webkit-box-shadow: 0px 0px 7px 5px #E53935; 
@@ -111,6 +112,7 @@ nav.nav-center ul li a {
 }
 .sticky-nav a.miniLogo {
 	max-width: 500px;
+	margin-left: 1rem;
 }
 
 /* Sticky Header */

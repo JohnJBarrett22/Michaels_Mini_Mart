@@ -1,20 +1,20 @@
 //Carousel initialize
 document.addEventListener('DOMContentLoaded', function() {
-	var elems = document.querySelectorAll('.carousel');
-    var options = {
+	var mainCarousel = document.querySelectorAll('.carousel');
+    var mainCarouselOptions = {
     	fullWidth: true
     }
-    var instances = M.Carousel.init(elems, options);
-});
+    var mainCarouselFunction = M.Carousel.init(mainCarousel, mainCarouselOptions);
 
-document.addEventListener('DOMContentLoaded', function() {
-	var elems = document.querySelectorAll('.carouselSlim');
-    var options = {
-    	shift: 0,
+    
+	var slimCarousel = document.querySelectorAll('.carouselSlim');
+    var slimCarouselOptions = {
+    	shift: 200,
+    	dist: 130,
     	numVisible: 0,
     	duration: 10000
     }
-    var instances = M.Carousel.init(elems, options);
+    var slimCarouselFunction = M.Carousel.init(slimCarousel, slimCarouselOptions);
 });
 
 //Parallax initialize

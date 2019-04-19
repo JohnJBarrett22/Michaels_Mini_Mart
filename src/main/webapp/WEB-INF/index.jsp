@@ -26,6 +26,7 @@
 	    	<a class="carousel-item featurePic" href="#one!"><img src="images/food_taquitos.jpg"></a>
 	    	<a class="carousel-item featurePic" href="#two!"><img src="images/food_pizza.jpg"></a>
 	    	<a class="carousel-item featurePic" href="#three!"><img src="images/food_tacos.jpg"></a>
+	    	<a class="carousel-item featurePic" href="#three!"><img src="images/food_burger.jpg"></a>
 	    </div>
 	    
 	    <nav class="nav-center red darken-1" id="siteNav">
@@ -78,7 +79,7 @@
  		<div class="row">
 			<div class="col m1"></div>
 			<div class="col m10">
-				<h1>Favorites by Alice</h1>
+				<h2>Favorites by Alice</h2>
 	  			<div class="row">
 	  				<div class="col s12 m6">
 	  					<p class="marginBottom">“Favorites by Alice” refers to the great recipes that were crowd favorites at Mike’s Place, the Romero's restaurant in the neighboring city of Española. Alice has turned on the stove again at Michael's Mini-Mart to offer a wide variety of fresh-hot food during the morning, day, and evening for breakfast, lunch, dinner, snacks, or comfort food! Included are traditional stand-by's and spicy local favorites.</p>
@@ -90,6 +91,10 @@
 					    	<a class="carousel-item" href="#four!"><img src="images/food_burger.jpg" class="miniCarousel"></a>
 					    	<a class="carousel-item" href="#five!"><img src="images/food_beers.jpg" class="miniCarousel"></a>
 					    	<a class="carousel-item" href="#six!"><img src="images/food_breakfast_burrito.jpg" class="miniCarousel"></a>
+					  	</div>
+					  	<div>
+					  		<h6 class="dlLink addBold">Deli Hours</h6>
+					  		<p class="ctr">Mon: 7:00AM - 6:30PM <span class="response">|</span> Tue-Thur: 7:00AM - 8:00PM <span class="response">|</span> Fri-Sat: 7:00AM - 8:30PM <span class="response">|</span> Sun: 7:00AM - 8:00PM</p>
 					  	</div>
 				  	</div>
 			  		<div class="col s12 m6 ctr">
