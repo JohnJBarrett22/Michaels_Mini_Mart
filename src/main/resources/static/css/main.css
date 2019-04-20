@@ -110,6 +110,7 @@ nav.nav-center ul li a {
 	overflow: hidden;
 	transition: all 5s;
 }
+
 .sticky-nav a.miniLogo {
 	max-width: 500px;
 	margin-left: 1rem;
@@ -176,4 +177,7 @@ nav.nav-center ul li a {
 /* Temp */
 .test {
 	border: 1px solid blue;
+}
+.test2 {
+	opacity: 0;
 }
