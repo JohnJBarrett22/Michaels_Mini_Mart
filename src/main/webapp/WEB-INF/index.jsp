@@ -21,7 +21,7 @@
 
 	<!-- Home -->
 	<section id="home">
-		<img src="images/mmm_text.png" class="overlay">
+		<img src="images/mmm_text2.png" class="overlay">
 		<div class="carousel carousel-slider" id="mainCarousel">
 	    	<a class="carousel-item featurePic" href="#one!"><img src="images/food_taquitos.jpg"></a>
 	    	<a class="carousel-item featurePic" href="#two!"><img src="images/food_pizza.jpg"></a>
