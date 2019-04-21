@@ -58,6 +58,7 @@ p {
 	margin: 1rem auto;
 }
 .featurePic {
+	min-height: 100%;
 	max-height: 100%;
 }
 .galleryColumn {
@@ -134,6 +135,7 @@ nav.nav-center ul li a {
 	transform: translateX(0%) scale(1);
 }
 .cardPic {
+	
 	min-height: 400px;
     max-height: 400px;   
 }
