@@ -12,6 +12,9 @@ p {
 	margin-top: 1rem;
 	margin-bottom: 1rem;
 }
+#loader {
+	background-color: #E53935
+}
 .logo {
 	text-align: center;
 	margin: 1rem;
