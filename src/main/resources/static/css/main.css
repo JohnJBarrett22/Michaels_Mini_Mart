@@ -17,13 +17,13 @@
 	background-color: #E53935
 }
 .loader.hidden {
-	animation: fadeOut 8s;
+	animation: fadeOut 9s;
 	animation-fill-mode: forwards;
 }
 @keyframes fadeOut {
     100% {
         opacity: 0;
-        visibility: hidden;lo
+        visibility: hidden;
     }
 }
 
@@ -215,4 +215,6 @@ nav.nav-center ul li a {
 .test2 {
 	opacity: 0;
 }
-
+.flexText {
+	display: inline-block;
+}

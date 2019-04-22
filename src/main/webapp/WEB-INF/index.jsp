@@ -323,10 +323,10 @@
 	      	</div>
 	      	<div class="footer-copyright">
 	        	<div class="container">
-	        		© 2019 Copyrighted by Michael's Mini-Mart
-	        		<a class="grey-text text-lighten-4 right" href="https://www.facebook.com/MichaelsMinimartVelarde/"><i class="fab fa-facebook-square fa-2x icon"></i></a>
-	        		<a class="grey-text text-lighten-4 right" href="mailto:michaels.minimart@gmail.com"><i class="fas fa-envelope fa-2x icon"></i></a>
-	        		<a class="grey-text text-lighten-4 right" href="tel:505-852-4769"><i class="fas fa-phone fa-2x icon"></i></a>
+	        		<a class="grey-text text-lighten-4 right flexText" href="https://www.facebook.com/MichaelsMinimartVelarde/"><i class="fab fa-facebook-square fa-2x icon"></i></a>
+	        		<a class="grey-text text-lighten-4 right flexText" href="mailto:michaels.minimart@gmail.com"><i class="fas fa-envelope fa-2x icon"></i></a>
+	        		<a class="grey-text text-lighten-4 right flexText" href="tel:505-852-4769"><i class="fas fa-phone fa-2x icon"></i></a>
+	        		<p class="alignTop">© 2019 Copyrighted by Michael's Mini-Mart</p>
 	        	</div>
 	      	</div>
 	      	
