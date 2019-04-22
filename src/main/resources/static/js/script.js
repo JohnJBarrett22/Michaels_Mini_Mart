@@ -1,3 +1,8 @@
+window.addEventListener("load", function () {
+    var loader = document.querySelectorAll(".loader");
+    loader.className += " hidden";
+});
+
 //Carousel initialize
 document.addEventListener('DOMContentLoaded', function() {
 	var mainCarousel = document.querySelectorAll('.carousel');

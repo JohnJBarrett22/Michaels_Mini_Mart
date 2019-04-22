@@ -4,6 +4,29 @@
 	padding: 0;
 }
 
+/* Loader */
+.loader {
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 100%;
+    z-index: 10000;
+	background-color: #E53935
+}
+.loader.hidden {
+	animation: fadeOut 8s;
+	animation-fill-mode: forwards;
+}
+@keyframes fadeOut {
+    100% {
+        opacity: 0;
+        visibility: hidden;lo
+    }
+}
+
 /* Full Page */
 html {
 	scroll-behavior: smooth;
@@ -11,9 +34,6 @@ html {
 p {
 	margin-top: 1rem;
 	margin-bottom: 1rem;
-}
-#loader {
-	background-color: #E53935
 }
 .logo {
 	text-align: center;
@@ -39,10 +59,13 @@ p {
 .addBold {
 	font-weight: bold;
 }
+.carousel { 
+	min-height: 100vh;
+}
 .carouselSlim {
 	padding: 0;
 	margin: 0;
-	height: 250px;
+	min-height: 275px;
 }
 .miniCarousel {
 	height: 100%;
@@ -185,4 +208,8 @@ nav.nav-center ul li a {
 }
 .test2 {
 	opacity: 0;
+}
+
+.carousel.carousel-item { 
+	height:auto;
 }
