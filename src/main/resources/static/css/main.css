@@ -145,8 +145,8 @@ nav.nav-center ul li a {
 }
 
 .sticky-nav a.miniLogo {
-	max-width: 500px;
-	margin-left: 1rem;
+	max-width: 275px;
+	margin: .5rem
 }
 
 /* Sticky Header */
@@ -217,4 +217,8 @@ nav.nav-center ul li a {
 }
 .flexText {
 	display: inline-block;
+}
+.tini {
+	max-width: 100%;
+	max-height: 100%;
 }

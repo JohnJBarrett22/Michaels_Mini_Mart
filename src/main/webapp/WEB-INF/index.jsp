@@ -36,7 +36,7 @@
 	    
 	    <nav class="nav-center red darken-1" id="siteNav">
 	    	<div class="nav-wrapper">
-	    	<a href="#home" class="brand-logo miniLogo">Michael's<span class="test2">z</span>Mini-Mart</a>
+	    	<a href="#home" class="brand-logo miniLogo"><img src="images/mmm_text3.png" class="tini"></a>
 	    	<a href="#" data-target="mobile-nav" class="sidenav-trigger"><i class="material-icons">menu</i></a>
 	      		<ul id="nav-mobile" class="center hide-on-med-and-down">
 	        		<li><a href="#about">About</a></li>
@@ -248,9 +248,9 @@
 		  				<a class="grey-text text-lighten-4 right" href="https://www.newmexico.org/events/#events" target="_blank"><img class="nmtrue" src="images/feature_nmtrue.jpg"></a>
 		  				<a href="https://www.newmexico.org/events/#events" class="dlLink">Visit <span class="addBold">New Mexico True's</span> event calander! <i class="far fa-calendar-alt"></i></a>
 	  				  	<div class="row">
-	  				  		<img class="materialboxed col s12 m6 l4 noMargin scenery" data-caption="Enjoying a sunset, the New Mexico way." width="230" src="images/state_sunset.jpg">
-		  					<img class="materialboxed col s12 m6 l4 noMargin scenery" data-caption="Gila River" width="230" src="images/state_river.jpg">
-		  					<img class="materialboxed col s12 m6 l4 noMargin scenery" data-caption="Skiing in the New Mexico snow." width="230" src="images/state_snow.jpg">
+	  				  		<img class="materialboxed col s12 m6 l4 noMargin scenery" data-caption="" width="230" src="images/state_sunset.jpg">
+		  					<img class="materialboxed col s12 m6 l4 noMargin scenery" data-caption="" width="230" src="images/state_river.jpg">
+		  					<img class="materialboxed col s12 m6 l4 noMargin scenery" data-caption="" width="230" src="images/state_snow.jpg">
 	  					</div>	
 		  			</div>
 		  		</div>
