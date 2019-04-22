@@ -28,10 +28,10 @@
 	<section id="home">
 		<img src="images/mmm_text2.png" class="overlay">
 		<div class="carousel carousel-slider" id="mainCarousel">
-	    	<a class="carousel-item featurePic" href="#one!"><img src="images/food_taquitos.jpg"></a>
-	    	<a class="carousel-item featurePic" href="#two!"><img src="images/food_pizza.jpg"></a>
-	    	<a class="carousel-item featurePic" href="#three!"><img src="images/food_tacos.jpg"></a>
-	    	<a class="carousel-item featurePic" href="#three!"><img src="images/food_burger.jpg"></a>
+	    	<a class="carousel-item featurePic" href="#one!"><img src="images/food_taquitos.jpg" class="fullViewHeight"></a>
+	    	<a class="carousel-item featurePic" href="#two!"><img src="images/food_pizza.jpg" class="fullViewHeight"></a>
+	    	<a class="carousel-item featurePic" href="#three!"><img src="images/food_tacos.jpg" class="fullViewHeight"></a>
+	    	<a class="carousel-item featurePic" href="#four!"><img src="images/food_burger.jpg" class="fullViewHeight"></a>
 	    </div>
 	    
 	    <nav class="nav-center red darken-1" id="siteNav">
