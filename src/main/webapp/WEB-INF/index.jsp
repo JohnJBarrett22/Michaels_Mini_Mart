@@ -67,7 +67,8 @@
 	  				<div class="col m10"><img class="logo" src="images/mmm_logo.jpg"></div>
 	  				<div class="col m1"></div>
 	  			</div>
-	  			<h2 class="ctr">Welcome to the biggest little store in New Mexico!</h2>
+	  			<h2 class="ctr hide-on-med-and-down">Welcome to the biggest little store in New Mexico!</h2>
+	  			<h4 class="ctr hide-on-large-only">Welcome to the biggest little store in New Mexico!</h4>
 	  			<p>Located in the heart of the land of enchantment, halfway between Santa Fe and Taos and along the Rio Grande, Michael's Mini-Mart is your source for delicious food, cold drinks, tasty snacks, and a wide selection of beer, wine, and liquor.</p>
 	  			<p>“Your Favorites by Alice” has a full menu of food items made from only the best and freshest ingredients. Whether you're dropping by for a quick meal, ordering for take-out, or would like to cater a meal or party for your friends or office, our team can fill the order with her original recipes and favorites. You can also grab an ice cold beer from our beer on tap and pair it with our delicious food.</p>
 	  		</div>
@@ -84,7 +85,8 @@
  		<div class="row">
 			<div class="col m1"></div>
 			<div class="col m10">
-				<h2>Favorites by Alice</h2>
+				<h2 class="hide-on-med-and-down">Favorites by Alice</h2>
+				<h4 class="hide-on-large-only">Favorites by Alice</h4>
 	  			<div class="row">
 	  				<div class="col s12 m6">
 	  					<p class="marginBottom">“Favorites by Alice” refers to the great recipes that were crowd favorites at Mike’s Place, the Romero's restaurant in the neighboring city of Española. Alice has turned on the stove again at Michael's Mini-Mart to offer a wide variety of fresh-hot food during the morning, day, and evening for breakfast, lunch, dinner, snacks, or comfort food! Included are traditional stand-by's and spicy local favorites.</p>
@@ -117,7 +119,8 @@
 		<div class="row">
 			<div class="col m1"></div>
 			<div class="col m10">
-			 	<h1>Media & Awards</h1>
+			 	<h2 class="hide-on-med-and-down">Media & Awards</h2>
+			 	<h4 class="hide-on-large-only">Media & Awards</h4>
 		    	<div class="col s12 m6 l3 cardSlide">
 		      		<div class="card hoverable">
 		        		<div class="card-image">
@@ -234,7 +237,8 @@
   		<div class="row">
 	  		<div class="col m1"></div>
 			<div class="col m10">
-				<h1>Locale</h1>
+				<h2 class="hide-on-med-and-down">Locale</h2>
+				<h4 class="hide-on-large-only">Locale</h4>
 				<p>Located on NM Highway 68 between Santa Fe and Taos, the village of Velarde is within an hour's drive of internationally famous resorts, landmarks, and cultural communities of Taos, Espanola, Santa Fe, Abiquiu, Ghost Ranch, Ojo Caliente, Los Alamos, the Jemez Mountains, the Rio Grande Gorge, Chimayo, and many of the northern Pueblo Indian Villages. Michael's Mini-Mart is only a few short hours driving from Angel Fire, Roswell, Albuquerque, and the Colorado border. It turns out that Michael's Mini-Mart is at the center of many of the activities that locals and visitors alike love when they think of the things that make New Mexico the Land of Enchantment!</p>
 				<div class="row">
 					<div class="col s12 m6 addMargin">
@@ -263,7 +267,8 @@
   	  	<div class="row">
 	  		<div class="col m1"></div>
 			<div class="col m10">
-		  		<h1>Contact Us</h1>
+		  		<h2 class="hide-on-med-and-down">Contact Us</h2>
+		  		<h4 class="hide-on-large-only">Contact Us</h4>
 				<div class="row">
 					<form class="col s12" action="https://formspree.io/johnjbarrett22@gmail.com" method="POST">
 				    	<div class="row">
