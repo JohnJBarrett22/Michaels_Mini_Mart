@@ -121,6 +121,9 @@ p {
     width: 90%;
     z-index: 10000;
 }
+.flexText {
+	display: inline-block;
+}
 
 /* Center Nav */
 nav.nav-center ul {
@@ -147,6 +150,10 @@ nav.nav-center ul li a {
 .sticky-nav a.miniLogo {
 	max-width: 275px;
 	margin: .5rem
+}
+.cornerLogo {
+	max-height: 100%;
+	max-width: 100%;
 }
 
 /* Sticky Header */
@@ -211,10 +218,4 @@ nav.nav-center ul li a {
 /* Temp */
 .test {
 	border: 1px solid blue;
-}
-.test2 {
-	opacity: 0;
-}
-.flexText {
-	display: inline-block;
 }
