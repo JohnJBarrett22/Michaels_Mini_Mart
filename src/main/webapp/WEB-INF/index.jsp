@@ -21,22 +21,22 @@
 <body>
 
 	<div class="loader hidden">
-		<img src="images/mmm_text2.png" class="overlay">
+		<img src="images/mmm_text2.png" class="overlay" alt="Image of logo text.">
 	</div>
 
 	<!-- Home -->
 	<section id="home">
-		<img src="images/mmm_text2.png" class="overlay">
+		<img src="images/mmm_text2.png" class="overlay" alt="Image of logo text.">
 		<div class="carousel carousel-slider" id="mainCarousel">
-	    	<a class="carousel-item featurePic" href="#one!"><img src="images/food_taquitos.jpg" class="fullViewHeight"></a>
-	    	<a class="carousel-item featurePic" href="#two!"><img src="images/food_pizza.jpg" class="fullViewHeight"></a>
-	    	<a class="carousel-item featurePic" href="#three!"><img src="images/food_tacos.jpg" class="fullViewHeight"></a>
-	    	<a class="carousel-item featurePic" href="#four!"><img src="images/food_burger.jpg" class="fullViewHeight"></a>
+	    	<a class="carousel-item featurePic" href="#one!"><img src="images/food_taquitos.jpg" class="fullViewHeight" alt="Image of taquitos."></a>
+	    	<a class="carousel-item featurePic" href="#two!"><img src="images/food_pizza.jpg" class="fullViewHeight" alt="Image of pizza."></a>
+	    	<a class="carousel-item featurePic" href="#three!"><img src="images/food_tacos.jpg" class="fullViewHeight" alt="Image of tacos."></a>
+	    	<a class="carousel-item featurePic" href="#four!"><img src="images/food_burger.jpg" class="fullViewHeight" alt="Image of hamburger."></a>
 	    </div>
 	    
 	    <nav class="nav-center red darken-1" id="siteNav">
 	    	<div class="nav-wrapper">
-	    	<a href="#home" class="brand-logo miniLogo"><img src="images/mmm_text3.png" class="tini"></a>
+	    	<a href="#home" class="brand-logo miniLogo"><img src="images/mmm_text3.png" alt="Image of logo text."></a>
 	    	<a href="#" data-target="mobile-nav" class="sidenav-trigger"><i class="material-icons">menu</i></a>
 	      		<ul id="nav-mobile" class="center hide-on-med-and-down">
 	        		<li><a href="#about">About</a></li>
@@ -64,7 +64,7 @@
 			<div class="col m10">
 				<div class="row">
 					<div class="col m1"></div>
-	  				<div class="col m10"><img class="logo" src="images/mmm_logo.jpg"></div>
+	  				<div class="col m10"><img class="logo" src="images/mmm_logo.jpg" alt="Image of logo."></div>
 	  				<div class="col m1"></div>
 	  			</div>
 	  			<h2 class="ctr hide-on-med-and-down">Welcome to the biggest little store in New Mexico!</h2>
@@ -76,7 +76,7 @@
   		</div>
   	
 	  	<div class="parallax-container">
-	    	<div class="parallax"><img src="images/exterior_front4.jpg"></div>
+	    	<div class="parallax"><img src="images/exterior_front4.jpg" alt="Image of Michael's Mini-Mart."></div>
 	    </div>
   	</section>
   	
@@ -92,17 +92,17 @@
 	  					<p class="marginBottom">“Favorites by Alice” refers to the great recipes that were crowd favorites at Mike’s Place, the Romero's restaurant in the neighboring city of Española. Alice has turned on the stove again at Michael's Mini-Mart to offer a wide variety of fresh-hot food during the morning, day, and evening for breakfast, lunch, dinner, snacks, or comfort food! Included are traditional stand-by's and spicy local favorites.</p>
 						<br>
 						<div class="carousel carouselSlim">
-					    	<a class="carousel-item" href="#one!"><img src="images/food_tacos.jpg" class="miniCarousel"></a>
-					    	<a class="carousel-item" href="#two!"><img src="images/food_pizza.jpg" class="miniCarousel"></a>
-					    	<a class="carousel-item" href="#three!"><img src="images/food_taquitos.jpg" class="miniCarousel"></a>
-					    	<a class="carousel-item" href="#four!"><img src="images/food_burger.jpg" class="miniCarousel"></a>
-					    	<a class="carousel-item" href="#five!"><img src="images/food_beers.jpg" class="miniCarousel"></a>
-					    	<a class="carousel-item" href="#six!"><img src="images/food_breakfast_burrito.jpg" class="miniCarousel"></a>
+					    	<a class="carousel-item" href="#one!"><img src="images/food_tacos.jpg" class="miniCarousel" alt="Image of tacos."></a>
+					    	<a class="carousel-item" href="#two!"><img src="images/food_pizza.jpg" class="miniCarousel" alt="Image of pizza."></a>
+					    	<a class="carousel-item" href="#three!"><img src="images/food_taquitos.jpg" class="miniCarousel" alt="Image of taquitos."></a>
+					    	<a class="carousel-item" href="#four!"><img src="images/food_burger.jpg" class="miniCarousel" alt="Image of a hamburger."></a>
+					    	<a class="carousel-item" href="#five!"><img src="images/food_beers.jpg" class="miniCarousel" alt="Image of beer bottles."></a>
+					    	<a class="carousel-item" href="#six!"><img src="images/food_breakfast_burrito.jpg" class="miniCarousel" alt="Image of a breakfast burrito."></a>
 					  	</div>
 				  	</div>
 			  		<div class="col s12 m6 ctr">
-		  				<img src="images/food_menu.png" class="materialboxed menuPic">
-		  				<a href="images/food_menu.png" class="dlLink" download>Download Menu <i class="fas fa-download"></i></a>
+		  				<img src="images/food_menu.png" class="materialboxed menuPic" alt="Image of the menu from Your Favorites by Alice.">
+		  				<a href="images/food_menu.png" class="dlLink" download alt="Image of the menu from Your Favorites by Alice.">Download Menu <i class="fas fa-download"></i></a>
 			  		</div>
 				 </div>
 	  		</div>
@@ -110,7 +110,7 @@
   		</div>
 	    
 	   	<div class="parallax-container">
-	    	<div class="parallax"><img src="images/retail_taps.jpg"></div>
+	    	<div class="parallax"><img src="images/retail_taps.jpg" alt="Image of beer taps."></div>
 	    </div>
   	</section>
   	
@@ -124,7 +124,7 @@
 		    	<div class="col s12 m6 l3 cardSlide">
 		      		<div class="card hoverable">
 		        		<div class="card-image">
-		          			<img src="images/feature_green_chili_trail.jpg" class="cardPic">
+		          			<img src="images/feature_green_chili_trail.jpg" class="cardPic" alt="Image of the Green Chili Chesseburger Trail.">
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal1"><i class="material-icons">search</i></a>
 		        		</div>
 		        		<div class="card-content cardTextBox">
@@ -136,7 +136,7 @@
 		   		<div class="col s12 m6 l3 cardSlide">
 		      		<div class="card hoverable">
 		        		<div class="card-image">
-		          			<img src="images/feature_saveur.jpg" class="cardPic">
+		          			<img src="images/feature_saveur.jpg" class="cardPic" alt="Image of the front of Savuer magazine.">
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal2"><i class="material-icons">search</i></a>
 		        		</div>
 		        		<div class="card-content cardTextBox">
@@ -148,7 +148,7 @@
 		    	<div class="col s12 m6 l3 cardSlide">
 		      		<div class="card hoverable">
 		        		<div class="card-image">
-		        			<img src="images/feature_magazine.jpg" class="cardPic">
+		        			<img src="images/feature_magazine.jpg" class="cardPic" alt="Image of Michael and Alice on the front of Convenience Store News magazine.">
 		        			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal3"><i class="material-icons">search</i></a>
 		        		</div>
 		        		<div class="card-content cardTextBox">
@@ -160,7 +160,7 @@
 		    	<div class="col s12 m6 l3 cardSlide">
 		    		<div class="card hoverable">
 		        		<div class="card-image">
-		          			<img src="images/feature_pnmentrp.jpg" class="cardPic">
+		          			<img src="images/feature_pnmentrp.jpg" class="cardPic" alt="Image of the front of Entrepreneurial Leadership Awards Luncheon handout.">
 		          			<a class="btn-floating halfway-fab waves-effect waves-light red modal-trigger" href="#modal4"><i class="material-icons">search</i></a>
 		        		</div>
 		        		<div class="card-content cardTextBox">
@@ -228,7 +228,7 @@
 	    </div>
 	  	
 		<div class="parallax-container">
-	    	<div class="parallax"><img src="images/retail_snacks.jpg"></div>
+	    	<div class="parallax"><img src="images/retail_snacks.jpg" alt="Image of convenience items in Michael's Mini-Mart."></div>
 	    </div>
     </section>
   	
@@ -245,12 +245,12 @@
 						<iframe class="map responsive-img" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12884.24978667443!2d-105.967529!3d36.165035!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87182882e78ce007%3A0x6fb7c80896e47ace!2s1410+NM-68%2C+Velarde%2C+NM+87582!5e0!3m2!1sen!2sus!4v1555357823047!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 		  			</div>
 		  			<div class="col s12 m6 ctr">
-		  				<a class="grey-text text-lighten-4 right" href="https://www.newmexico.org/events/#events" target="_blank"><img class="nmtrue" src="images/feature_nmtrue.jpg"></a>
+		  				<a class="grey-text text-lighten-4 right" href="https://www.newmexico.org/events/#events" target="_blank"><img class="nmtrue" src="images/feature_nmtrue.jpg" alt="Image of outdoor scenery and a New Mexico True magazine."></a>
 		  				<a href="https://www.newmexico.org/events/#events" class="dlLink">Visit <span class="addBold">New Mexico True's</span> event calander! <i class="far fa-calendar-alt"></i></a>
 	  				  	<div class="row">
-	  				  		<img class="materialboxed col s12 m6 l4 noMargin scenery" data-caption="" width="230" src="images/state_sunset.jpg">
-		  					<img class="materialboxed col s12 m6 l4 noMargin scenery" data-caption="" width="230" src="images/state_river.jpg">
-		  					<img class="materialboxed col s12 m6 l4 noMargin scenery" data-caption="" width="230" src="images/state_snow.jpg">
+	  				  		<img class="materialboxed col s12 m6 l4 noMargin scenery" data-caption="" width="230" src="images/state_sunset.jpg" alt="Image of a man enjoying a New Mexico sunset.">
+		  					<img class="materialboxed col s12 m6 l4 noMargin scenery" data-caption="" width="230" src="images/state_river.jpg" alt="Image of a river within New Mexico, surrounded by lush greens and mountains.">
+		  					<img class="materialboxed col s12 m6 l4 noMargin scenery" data-caption="" width="230" src="images/state_snow.jpg" alt="Image of a man skiing in the snow, surrounded by green trees.">
 	  					</div>	
 		  			</div>
 		  		</div>
@@ -258,7 +258,7 @@
 		  	<div class="col m1"></div>
 	    </div>
 	   	<div class="parallax-container">
-			<div class="parallax"><img src="images/retail_beers.jpg"></div>
+			<div class="parallax"><img src="images/retail_beers.jpg" alt="Image of beer cases on retail shelves."></div>
 		</div>
   	</section>
   	
