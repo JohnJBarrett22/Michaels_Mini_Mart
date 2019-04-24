@@ -8,6 +8,8 @@
 <head>
 	<link rel="preload" as="image" href="images/food_taquitos.jpg">
 	<meta charset="UTF-8">
+	<meta name="author" content="John Barrett | JohnBarrett.io"/>
+	<meta name="copyright" content="Copyrighted by Michael's Mini-Mart"/>
 	<meta name="keywords" content="convenience, min-mart, store, gas, food, groceries, Michael's, Alice, liquor, package, beer, wine, diapers, Taos, Santa Fe, Velarde, Espanola, chips, snacks, candy, lottery tickets, tourists, travel, locals, burrito, taco, taquitos, chili, chile, soup, pizza">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 	<meta name="description" content="Michael's Mini-Mart features Your Favorites by Alice is the primary Mini-Mart and Convenience Store between Taos and Santa Fe, New Mexico offering great food, groceries, snacks, supplies and package liquor.">
