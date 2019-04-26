@@ -22,14 +22,14 @@
 </head>
 <body>
 
-	<div class="loader hidden">
-		<img src="images/mmm_text2.png" class="overlay" alt="Logo text.">
+	<div class="loader hidden hide-on-med-and-down">
+		<img src="images/mmm_text2.png" class="overlay hide-on-med-and-down" alt="Logo text.">
 	</div>
 
 	<!-- Home -->
 	<section id="home">
-		<img src="images/mmm_text2.png" class="overlay" alt="Logo text.">
-		<div class="carousel carousel-slider" id="mainCarousel">
+		<img src="images/mmm_text2.png" class="overlay hide-on-med-and-down" alt="Logo text.">
+		<div class="carousel carousel-slider hide-on-med-and-down" id="mainCarousel">
 	    	<a class="carousel-item featurePic" href="#one!"><img src="images/food_taquitos.jpg" class="fullViewHeight" alt="Taquitos."></a>
 	    	<a class="carousel-item featurePic" href="#two!"><img src="images/food_pizza.jpg" class="fullViewHeight" alt="Pizza."></a>
 	    	<a class="carousel-item featurePic" href="#three!"><img src="images/food_tacos.jpg" class="fullViewHeight" alt="Tacos."></a>
