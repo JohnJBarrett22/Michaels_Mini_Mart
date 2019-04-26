@@ -312,8 +312,8 @@
 	        	<div class="row">
 	          		<div class="col l6 s12">
 	            		<h5 class="white-text">Michael's Mini-Mart</h5>
-	            		<p class="grey-text text-lighten-4">1410 Highway 68 N, Velarde, NM 87582</p>
-	            		<p class="grey-text text-lighten-4">505-852-4769</p>
+	            		<a href="https://maps.google.com/maps?ll=36.165035,-105.967529&z=14&t=m&hl=en&gl=US&mapclient=embed&daddr=1410%20NM-68%20Velarde%2C%20NM%2087582@36.1650347,-105.9675287"><p class="grey-text text-lighten-4">1410 Highway 68 N, Velarde, NM 87582</p></a>
+	            		<a href="tel:505-852-4769"><p class="grey-text text-lighten-4">505-852-4769</p></a>
 	          		</div>
 	          		<div class="col l4 offset-l2 s12">
 			            <ul>
