@@ -78,7 +78,7 @@
   		</div>
   	
 	  	<div class="parallax-container">
-	    	<div class="parallax"><img src="images/exterior_front4.jpg" alt="Outside of Michael's Mini-Mart."></div>
+	    	<div class="parallax"><img src="images/exterior_front6.jpg" alt="Outside of Michael's Mini-Mart."></div>
 	    </div>
   	</section>
   	
