@@ -272,7 +272,7 @@
 		  		<h2 class="hide-on-med-and-down">Contact Us</h2>
 		  		<h4 class="hide-on-large-only">Contact Us</h4>
 				<div class="row">
-					<form class="col s12" action="https://formspree.io/johnjbarrett22@gmail.com" method="POST">
+					<form class="col s12" action="https://formspree.io/michaels.minimart@gmail.com" method="POST">
 				    	<div class="row">
 				        	<div class="input-field col s6">
 				          		<input id="first_name" type="text" name="First Name">
