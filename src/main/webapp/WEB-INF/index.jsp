@@ -10,9 +10,9 @@
 	<meta charset="UTF-8">
 	<meta name="author" content="John Barrett | JohnBarrett.io"/>
 	<meta name="copyright" content="Copyrighted by Michael's Mini-Mart"/>
-	<meta name="keywords" content="convenience, min-mart, store, gas, food, groceries, Michael's, Alice, liquor, package, beer, wine, diapers, Taos, Santa Fe, Velarde, Espanola, chips, snacks, candy, lottery tickets, tourists, travel, locals, burrito, taco, taquitos, chili, chile, soup, pizza">
+	<meta name="keywords" content="convenience, store, gas, food, groceries, Michael's, Alice, liquor, package, beer, wine, diapers, Taos, Santa Fe, Velarde, Espanola, chips, snacks, candy, lottery tickets, tourists, travel, locals, burrito, taco, taquitos, chili, green chile, pizza">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-	<meta name="description" content="Michael's Mini-Mart features Your Favorites by Alice is the primary Mini-Mart and Convenience Store between Taos and Santa Fe, New Mexico offering great food, groceries, snacks, supplies and package liquor.">
+	<meta name="description" content="Michael's Mini-Mart is located between Taos and Santa Fe, New Mexico offering fresh-made food, groceries, snacks, fuel, and package liquor.">
 	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
